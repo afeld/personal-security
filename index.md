@@ -11,7 +11,7 @@ This is a guide for individuals who are interested in improving their digital se
 
 ### Browser(s)
 
-- Install the HTTPS Everywhere browser extension.
+- Install the [HTTPS Everywhere](https://www.eff.org/https-everywhere%20) browser extension.
 
 ### Devices
 
@@ -22,8 +22,8 @@ _Computers, phones, tablets, etc._
 - Enable full disk encryption.
   - Back up your system first
   - Computer
-    - Windows: Bitlocker
-    - Mac: FileVault
+    - Windows: [BitLocker](https://support.microsoft.com/en-us/instantanswers/e7d75dd2-29c2-16ac-f03d-20cfdf54202f/turn-on-device-encryption)
+    - Mac: [FileVault](https://support.apple.com/en-us/HT204837)
   - Phone
     - iOS: just set a password
 
@@ -50,8 +50,8 @@ These tips require a bit more commitment or technical comfort, but are worth the
 ### Messaging
 
 - Use a messaging application with end-to-end encryption (E2EE). Note that these do require the recipient to be using the same app.
-  - Signal
-  - WhatsApp
+  - [Signal](https://whispersystems.org/)
+  - [WhatsApp](https://www.whatsapp.com/)
   - [More options](http://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
 
 ### Passwords
@@ -71,19 +71,19 @@ A password manager solves a number of problems:
 
 Use one of the following:
 
-- 1Password
-- KeePassX (free)
-- LastPass
+- [1Password](https://1password.com/)
+- [KeePassX](https://www.keepassx.org/) (free and open source)
+- [LastPass](https://www.lastpass.com/)
 - One that comes built in to your browser
-  - Chrome: https://support.google.com/chrome/answer/95606?co=GENIE.Platform%3DDesktop&hl=en
+  - Chrome: [Google Smart Lock](https://support.google.com/chrome/answer/95606?co=GENIE.Platform%3DDesktop&hl=en)
   - [Firefox Password Manager](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import)
-  - Safari: Apple Keychain
+  - Safari: [Apple Keychain](https://www.macobserver.com/tmo/article/getting-started-with-apples-keychain-password-manager)
 
 #### Multi-factor authentication
 
 Multi-factor authentication (MFA) means that a service requires more than just a password to log in. This means that even if a hacker is able to steal/guess your password, they still won't be able to log in. [A large number of services](https://twofactorauth.org/) offer MFA.
 
-When enabling MFA, using text messages (SMS) or Authy is recommended. Unlike the popular Google Authenticator, if you lose your phone, you won't be locked out of your accounts.
+When enabling MFA, using text messages (SMS) or [Authy](https://www.authy.com/) is recommended. Unlike the popular [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en), if you lose your phone, you won't be locked out of your accounts.
 
 ### Devices
 
@@ -142,4 +142,4 @@ this guide will not be enough. You should follow this guide, but also consult a 
 
 ## See also
 
-* https://hashman.ca/encryption-workshop/
+This guide was inspired by [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/).
