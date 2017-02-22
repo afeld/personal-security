@@ -1,0 +1,16 @@
+---
+---
+
+.container {
+  margin-top: 3em;
+  margin-bottom: 3em;
+
+  /* corresponds to Bootstrap breakpoint */
+  @media (max-width: 768px) {
+    margin-top: 0;
+  }
+}
+
+h1 {
+  margin-bottom: 45px;
+}
