@@ -72,6 +72,18 @@ This is a guide for people who are interested in improving their digital securit
   - https://keybase.io/
   - https://code.tutsplus.com/articles/its-time-to-encrypt-your-email-using-the-browser--cms-23358
 
+## Disclaimer
+
+This guide makes no guarantees that, even with following all steps of this guide, that your digital security/privacy will not be compromised. If you are a high-value target for hackers, such as
+
+* An activist
+* A celebrity
+* An executive
+* A journalist
+* A politician
+
+this guide will not be enough. You should follow this guide, but _also_ consult a security professional.
+
 ## See also
 
 * https://hashman.ca/encryption-workshop/
