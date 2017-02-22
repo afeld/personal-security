@@ -1,5 +1,7 @@
 # Digital Security and Privacy for Normal People
 
+This is a guide for people who are interested in improving their digital security/privacy, but who aren't necessarily technical.
+
 ## Super easy, one-time things
 
 ### Browser(s)
