@@ -55,6 +55,10 @@ These tips require a bit more commitment or technical comfort, but are worth the
   - [WhatsApp](https://www.whatsapp.com/)
   - [More options](http://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
 
+### Sending sensitive information
+
+**Don't share sensitive information in SMS or (unencrypted) email directly.** Instead, use [Fugacious](https://fugacio.us/) and send the link.
+
 ### Passwords
 
 - **Use different ([non-trivial](#passwords)) passwords for every service.**
@@ -72,6 +76,7 @@ These tips require a bit more commitment or technical comfort, but are worth the
 
 Try one of the following:
 
+- Apple iMessage (versus normal SMS)
 - [1Password](https://1password.com/)
 - [KeePassX](https://www.keepassx.org/) (free and open source)
 - [LastPass](https://www.lastpass.com/)
@@ -129,6 +134,7 @@ In short, security is like having bars on your windows: hackers can't get in, bu
 * **Passphrase**: Synonym for `password`.
 * **Privacy**: TODO
 * **Security**: TODO
+* **SMS**: Short Message Service, also known as "text messages".
 * **Two-factor authentication (2FA):** See `multi-factor authentication`.
 
 ## Disclaimer
