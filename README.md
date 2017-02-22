@@ -1,3 +1,8 @@
+---
+permalink: /
+layout: default
+---
+
 # Digital Security and Privacy for Normal People
 
 This is a guide for individuals who are interested in improving their digital security/privacy — no technical experience required.
