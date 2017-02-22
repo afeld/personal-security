@@ -145,4 +145,4 @@ this guide will not be enough. You should follow this guide, but also consult a 
 
 ## See also
 
-This guide was inspired by [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/).
+This guide was inspired by [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450#)
