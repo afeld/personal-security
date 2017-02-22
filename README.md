@@ -3,7 +3,7 @@ permalink: /
 layout: default
 ---
 
-# Digital Security and Privacy for Normal People
+# {{ site.title }}
 
 This is a guide for individuals who are interested in improving their digital security/privacy — no technical experience required.
 
@@ -94,7 +94,7 @@ These tips are for people that are very serious about their personal privacy/sec
 - Use a camera cover.
 - Use PGP for your email.
   - [Keybase](https://keybase.io/)
-  - https://code.tutsplus.com/articles/its-time-to-encrypt-your-email-using-the-browser--cms-23358
+  - [How to encrypt your email in your browser](https://code.tutsplus.com/articles/its-time-to-encrypt-your-email-using-the-browser--cms-23358)
 
 ## Privacy vs. security
 
