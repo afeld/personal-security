@@ -118,7 +118,7 @@ These tips are for people that are very serious about their personal privacy/sec
 
 ## Privacy vs. security
 
-TODO
+In short, security is like having bars on your windows: hackers can't get in, but they can see through. Privacy is like having blinds, where they can't see in, but they can reach their hand in and unlock the door. You probably want both, but you'll need a combination of protections to address both.
 
 ## Glossary
 
