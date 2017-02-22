@@ -5,7 +5,7 @@
 
 This is a guide for individuals who are interested in improving their digital security/privacy. Only basic knowledge of how to use your computer and mobile device is required.
 
-## One-time things
+## Low-hanging fruit
 
 **Everyone should do these.** You only need to set them up once, are high value for relatively low effort, and there is little/no downside.
 
@@ -79,9 +79,11 @@ Use one of the following:
   - [Firefox Password Manager](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import)
   - Safari: Apple Keychain
 
-#### Two-factor authentication
+#### Multi-factor authentication
 
-[A large number of sites](https://twofactorauth.org/) offer two-factor/multi-factor authentication (2FA/MFA). Using text messages (SMS) or Authy is recommended. Unlike the popular Google Authenticator, if you lose your phone, you won't be locked out of your accounts.
+Multi-factor authentication (MFA) means that a service requires more than just a password to log in. This means that even if a hacker is able to steal/guess your password, they still won't be able to log in. [A large number of services](https://twofactorauth.org/) offer MFA.
+
+When enabling MFA, using text messages (SMS) or Authy is recommended. Unlike the popular Google Authenticator, if you lose your phone, you won't be locked out of your accounts.
 
 ### Devices
 
