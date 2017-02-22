@@ -25,6 +25,7 @@ _Computers, phones, tablets, etc._
     - Windows: [BitLocker](https://support.microsoft.com/en-us/instantanswers/e7d75dd2-29c2-16ac-f03d-20cfdf54202f/turn-on-device-encryption)
     - Mac: [FileVault](https://support.apple.com/en-us/HT204837)
   - Phone
+    - [Android](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/)
     - iOS: just set a password
 
 ### Passwords
@@ -110,7 +111,7 @@ When enabling MFA, using text messages (SMS) or [Authy](https://www.authy.com/) 
 
 These tips are for people that are very serious about their personal privacy/security.
 
-- **Use [Tor](https://www.torproject.org/)**
+- **Use [Tor](https://www.torproject.org/).**
   - The easiest way to do this (at least for visiting web sites) is by using the [Tor browser](https://www.torproject.org/projects/torbrowser.html.en). Note this won't apply to traffic coming from other applications.
 - **Use the [Brave](https://brave.com/) web browser.**
 - **Use a camera cover.**
@@ -120,7 +121,7 @@ These tips are for people that are very serious about their personal privacy/sec
 
 ## Privacy vs. security
 
-In short, security is like having bars on your windows: hackers can't get in, but they can see through. Privacy is like having blinds, where they can't see in, but they can reach their hand in and unlock the door. You probably want both, but you'll need a combination of protections to address both.
+In short, security is like having bars on your windows: hackers can't get in, but they can see through. Privacy is like having blinds, where they can't see in, but they can reach their hand in and unlock the door. You'll need a combination of protections to address both.
 
 ## Glossary
 
