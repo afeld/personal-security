@@ -118,6 +118,14 @@ These tips are for people that are very serious about their personal privacy/sec
 
 TODO
 
+## Glossary
+
+* **Multi-factor authentication (MFA)**: A service requiring more than just a password to log in.
+* **Passphrase**: Synonym for `password`.
+* **Privacy**: TODO
+* **Security**: TODO
+* **Two-factor authentication (2FA):** See `multi-factor authentication`.
+
 ## Disclaimer
 
 This guide makes no guarantees that, even with following all steps of this guide, that your digital security/privacy will not be compromised. If you are a high-value target for hackers, such as
