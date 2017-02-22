@@ -1,9 +1,10 @@
 ---
 ---
 
+$top-margin: 40px;
+
 .container {
   margin-top: 3em;
-  max-width: 768px;
 
   /* corresponds to Bootstrap breakpoint */
   @media (max-width: 768px) {
@@ -12,10 +13,27 @@
 }
 
 h1 {
-  margin-bottom: 45px;
+  margin-top: $top-margin;
+  margin-bottom: 40px;
 }
 
 footer {
   margin-top: 3em;
   margin-bottom: 3em;
+}
+
+nav[data-toggle='toc'] {
+  margin-top: $top-margin;
+}
+
+/* small screens */
+@media (max-width: 768px) {
+  /* override the Affix plugin so that the navigation isn't sticky */
+  nav.affix[data-toggle='toc'] {
+    position: static;
+  }
+
+  nav[data-toggle='toc'] .nav .active .nav {
+    display: none;
+  }
 }
