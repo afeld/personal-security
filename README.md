@@ -26,9 +26,11 @@ _Computers, phones, tablets, etc._
 
 ## Next steps
 
+These tips require a bit more commitment, but are worth the effort.
+
 ### Messaging
 
-- Use a messaging application with end-to-end encryption. Note that these do require the recipient to be using the same app.
+- Use a messaging application with end-to-end encryption (E2EE). Note that these do require the recipient to be using the same app.
   - Signal
   - WhatsApp
   - [More options](http://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
@@ -53,14 +55,14 @@ Use one of the following:
 - 1Password
 - KeePassX (free)
 - LastPass
-- browser-bundled
+- One that comes built in to your browser
   - Chrome: https://support.google.com/chrome/answer/95606?co=GENIE.Platform%3DDesktop&hl=en
-  - Firefox: https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import
+  - [Firefox Password Manager](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import)
   - Safari: Apple Keychain
 
 #### Two-factor authentication
 
-[A large number of sites](https://twofactorauth.org/) offer two-factor/multi-factor authentication (2FA/MFA). Using Authy (rather than Google Authenticator) is recommended, because then if you lose your phone, you aren't locked out of your accounts.
+[A large number of sites](https://twofactorauth.org/) offer two-factor/multi-factor authentication (2FA/MFA). Using text messages (SMS) or Authy is recommended. Unlike the popular Google Authenticator, if you lose your phone, you won't be locked out of your accounts.
 
 ### Devices
 
@@ -79,16 +81,23 @@ Use one of the following:
 
 ## Going even further
 
-- Use the [Tor browser](https://www.torproject.org/projects/torbrowser.html.en)
-- Use the [Brave](https://brave.com/) web browser
-- Use a camera cover
-- Use PGP for your email
-  - https://keybase.io/
+These tips are for people that are very serious about their personal privacy/security.
+
+- Use Tor
+  - The easiest way to do this (at least for visiting web sites) is by using the [Tor browser](https://www.torproject.org/projects/torbrowser.html.en).
+- Use the [Brave](https://brave.com/) web browser.
+- Use a camera cover.
+- Use PGP for your email.
+  - [Keybase](https://keybase.io/)
   - https://code.tutsplus.com/articles/its-time-to-encrypt-your-email-using-the-browser--cms-23358
+
+## Privacy vs. security
+
+TODO
 
 ## Disclaimer
 
-This guide makes no guarantees that, even with following all steps of this guide, that your digital security/privacy will not be compromised. Especially if you are a high-value target for hackers, such as
+This guide makes no guarantees that, even with following all steps of this guide, that your digital security/privacy will not be compromised. If you are a high-value target for hackers, such as
 
 * An activist
 * A celebrity
