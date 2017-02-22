@@ -1,22 +1,26 @@
 # Digital Security and Privacy for Normal People
 
-This is a guide for people who are interested in improving their digital security/privacy, but who aren't necessarily technical.
+This is a guide for individuals who are interested in improving their digital security/privacy — no technical experience required.
 
 ## Super easy, one-time things
 
+**Everyone should do these.** You only need to set them once, and there is little/no downside.
+
 ### Browser(s)
 
-- HTTPS Everywhere browser extensions
+- Install the HTTPS Everywhere browser extension.
 
 ### Devices
 
-- Password / fingerprint lock
-- Auto-lock
-- Full disk encryption
-  - Back up your systems first!
-  - Laptop
-    - Windows Bitlocker
-    - FileVault
+_Computers, phones, tablets, etc._
+
+- Enable password/fingerprint lock.
+- Set them to auto-lock after a short period of time (less than five minutes).
+- Enable full disk encryption.
+  - Back up your system first
+  - Computer
+    - Windows: Bitlocker
+    - Mac: FileVault
   - Phone
     - iOS: just set a password
 
@@ -24,57 +28,67 @@ This is a guide for people who are interested in improving their digital securit
 
 ### Messaging
 
-- Messaging app with end-to-end encryption
+- Use a messaging application with end-to-end encryption. Note that these do require the recipient to be using the same app.
   - Signal
   - WhatsApp
-  - http://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm
+  - [More options](http://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
 
 ### Passwords
 
+- Use different non-trivial passwords for every service.
+  - If you use the same password across services, one service getting hacked means your accounts with other services could be compromised. This happens [all the time](https://www.nytimes.com/interactive/2015/07/29/technology/personaltech/what-parts-of-your-information-have-been-exposed-to-hackers-quiz.html?_r=0).
+  - The best way to do this is with a [password manager](#password-manager).
+
 #### Password manager
 
-- Different, non-trivial passwords for every service
-  - https://www.nytimes.com/interactive/2015/07/29/technology/personaltech/what-parts-of-your-information-have-been-exposed-to-hackers-quiz.html?_r=0
+A password manager solves a number of problems:
+
+* You don't have to remember all of your different passwords for different services.
+* Your list of passwords can't be stolen as easily as if they are written on paper, a Word document, or a spreadsheet.
+* Most can generate a random, non-trivial password.
+  * This often means you won't know your own password for a given service...which is not a bad thing!
+
+Use one of the following:
+
 - 1Password
+- KeePassX (free)
 - LastPass
-- KeePassX
 - browser-bundled
-  - Safari: Apple Keychain
+  - Chrome: https://support.google.com/chrome/answer/95606?co=GENIE.Platform%3DDesktop&hl=en
   - Firefox: https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import
-    - Chrome: https://support.google.com/chrome/answer/95606?co=GENIE.Platform%3DDesktop&hl=en
+  - Safari: Apple Keychain
 
-#### Two-factor auth
+#### Two-factor authentication
 
-- https://twofactorauth.org/
-- Authy
+[A large number of sites](https://twofactorauth.org/) offer two-factor/multi-factor authentication (2FA/MFA). Using Authy (rather than Google Authenticator) is recommended, because then if you lose your phone, you aren't locked out of your accounts.
 
 ### Devices
 
-- Regular backups
-- Update your operating systems and software early and often
+- Back up your devices regularly.
+  - When you see the option, make sure that the backups are encrypted.
+- Update your operating systems and software early and often.
   - Enable automatic updates
-    - https://support.apple.com/kb/PH25371?locale=en_US
-    - http://www.howtogeek.com/232426/how-to-enable-or-disable-automatic-updates-for-ios-apps/
+    - [Mac](https://support.apple.com/kb/PH25371?locale=en_US)
+    - [iOS](http://www.howtogeek.com/232426/how-to-enable-or-disable-automatic-updates-for-ios-apps/)
 
 ### Payments
 
 - Pay with a credit card chip
 - Use one-time credit card numbers for payments, especially if you are wary of the vendor
-- Pay through Paypal or another service that guarantees payments
+- Make online payments through PayPal, or another trusted service that guarantees payments
 
 ## Going even further
 
-- Tor browser
-  - https://www.torproject.org/projects/torbrowser.html.en
-- https://brave.com/
-- camera cover
-- PGP for email
+- Use the [Tor browser](https://www.torproject.org/projects/torbrowser.html.en)
+- Use the [Brave](https://brave.com/) web browser
+- Use a camera cover
+- Use PGP for your email
   - https://keybase.io/
   - https://code.tutsplus.com/articles/its-time-to-encrypt-your-email-using-the-browser--cms-23358
 
 ## Disclaimer
 
-This guide makes no guarantees that, even with following all steps of this guide, that your digital security/privacy will not be compromised. If you are a high-value target for hackers, such as
+This guide makes no guarantees that, even with following all steps of this guide, that your digital security/privacy will not be compromised. Especially if you are a high-value target for hackers, such as
 
 * An activist
 * A celebrity
