@@ -4,6 +4,7 @@
 .container {
   margin-top: 3em;
   margin-bottom: 3em;
+  max-width: 768px;
 
   /* corresponds to Bootstrap breakpoint */
   @media (max-width: 768px) {
