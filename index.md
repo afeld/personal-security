@@ -1,5 +1,4 @@
 ---
-permalink: /
 ---
 
 # {{ site.title }}
