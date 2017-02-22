@@ -7,7 +7,7 @@ This is a guide for individuals who are interested in improving their digital se
 
 ## One-time things
 
-**Everyone should do these.** You only need to set them up once, they are relatively low effort, and there is little/no downside.
+**Everyone should do these.** You only need to set them up once, are high value for relatively low effort, and there is little/no downside.
 
 ### Browser(s)
 
@@ -27,6 +27,22 @@ _Computers, phones, tablets, etc._
   - Phone
     - iOS: just set a password
 
+### Passwords
+
+Use non-trivial passwords. Make sure that your passwords:
+
+* Incorporate letters, numbers, and symbols
+* Are long (the longer the better)
+* Are not common
+  * A word from the dictionary
+  * `password`, or some variation thereof
+* Are not something that can be easily guessed based on public records or social media, such as
+  * Your birthday
+  * Your child's/pet's name
+  * etc.
+
+Without following these guidelines, hackers can get into your account(s) extremely easily. Note that different services have different requirements around passwords.
+
 ## Next steps
 
 These tips require a bit more commitment or technical comfort, but are worth the effort.
@@ -40,7 +56,7 @@ These tips require a bit more commitment or technical comfort, but are worth the
 
 ### Passwords
 
-- Use different non-trivial passwords for every service.
+- Use different ([non-trivial](#passwords)) passwords for every service.
   - If you use the same password across services, one service getting hacked means your accounts with other services could be compromised. This happens [all the time](https://www.nytimes.com/interactive/2015/07/29/technology/personaltech/what-parts-of-your-information-have-been-exposed-to-hackers-quiz.html?_r=0).
   - The best way to do this is with a [password manager](#password-manager).
 
@@ -90,7 +106,7 @@ Make sure there is a password on your wifi network. If you like having an open n
 
 These tips are for people that are very serious about their personal privacy/security.
 
-- Use Tor
+- Use [Tor](https://www.torproject.org/)
   - The easiest way to do this (at least for visiting web sites) is by using the [Tor browser](https://www.torproject.org/projects/torbrowser.html.en). Note this won't apply to traffic coming from other applications.
 - Use the [Brave](https://brave.com/) web browser.
 - Use a camera cover.
