@@ -145,4 +145,8 @@ this guide will not be enough. You should follow this guide, but also consult a 
 
 ## See also
 
-This guide was inspired by [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450#)
+* [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450#)
+    * The inspiration for this guide
+* [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.htm)
+* [Crash Override's Automated Cybersecurity Helper (C.O.A.C.H)](http://www.crashoverridenetwork.com/coach.html)
+    * A resource "for people who are experiencing online abuse"
