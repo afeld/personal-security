@@ -33,7 +33,7 @@ Use non-trivial passwords. Make sure that your passwords:
 
 * Incorporate letters, numbers, and symbols
 * Are long (the longer the better)
-* Are not common
+* Are not common, such as
   * A word from the dictionary
   * `password`, or some variation thereof
 * Are not something that can be easily guessed based on public records or social media, such as
