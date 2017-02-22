@@ -3,11 +3,11 @@
 
 # {{ site.title }}
 
-This is a guide for individuals who are interested in improving their digital security/privacy — no technical experience required.
+This is a guide for individuals who are interested in improving their digital security/privacy. Only basic knowledge of how to use your computer and mobile device is required.
 
-## Super easy, one-time things
+## One-time things
 
-**Everyone should do these.** You only need to set them once, and there is little/no downside.
+**Everyone should do these.** You only need to set them up once, they are relatively low effort, and there is little/no downside.
 
 ### Browser(s)
 
@@ -29,7 +29,7 @@ _Computers, phones, tablets, etc._
 
 ## Next steps
 
-These tips require a bit more commitment, but are worth the effort.
+These tips require a bit more commitment or technical comfort, but are worth the effort.
 
 ### Messaging
 
@@ -82,12 +82,16 @@ Use one of the following:
 - Use one-time credit card numbers for payments, especially if you are wary of the vendor
 - Make online payments through PayPal, or another trusted service that guarantees payments
 
+### Wifi
+
+Make sure there is a password on your wifi network. If you like having an open network, you can buy a router with a built-in public hotspot.
+
 ## Going even further
 
 These tips are for people that are very serious about their personal privacy/security.
 
 - Use Tor
-  - The easiest way to do this (at least for visiting web sites) is by using the [Tor browser](https://www.torproject.org/projects/torbrowser.html.en).
+  - The easiest way to do this (at least for visiting web sites) is by using the [Tor browser](https://www.torproject.org/projects/torbrowser.html.en). Note this won't apply to traffic coming from other applications.
 - Use the [Brave](https://brave.com/) web browser.
 - Use a camera cover.
 - Use PGP for your email.
@@ -108,7 +112,7 @@ This guide makes no guarantees that, even with following all steps of this guide
 * A journalist
 * A politician
 
-this guide will not be enough. You should follow this guide, but _also_ consult a security professional.
+this guide will not be enough. You should follow this guide, but also consult a security professional.
 
 ## See also
 
