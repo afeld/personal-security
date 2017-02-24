@@ -115,18 +115,6 @@ Numbers](https://www.cardbenefits.citi.com/Products/Virtual-Account-Numbers)
 
 **Make sure there is a password on your wifi network.** If you like having an open network, you can buy a router with a built-in public hotspot.
 
-## Going even further
-
-These tips are for people that are very serious about their personal privacy/security.
-
-- **Use [Tor](https://www.torproject.org/).**
-  - The easiest way to do this (at least for visiting web sites) is by using the [Tor browser](https://www.torproject.org/projects/torbrowser.html.en). Note this won't apply to traffic coming from other applications.
-- **Use the [Brave](https://brave.com/) web browser.**
-- **Use a camera cover.**
-- **Use PGP for your email.**
-  - [Keybase](https://keybase.io/)
-  - [How to encrypt your email in your browser](https://code.tutsplus.com/articles/its-time-to-encrypt-your-email-using-the-browser--cms-23358)
-
 ## Privacy vs. security
 
 In short, security is like having bars on your windows: hackers can't get in, but they can see through. Privacy is like having blinds, where they can't see in, but they can reach their hand in and unlock the door. You'll need a combination of protections to address both.

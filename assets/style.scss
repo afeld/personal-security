@@ -33,7 +33,8 @@ nav[data-toggle='toc'] {
     position: static;
   }
 
-  nav[data-toggle='toc'] .nav .active .nav {
-    display: none;
+  /* expand the second-level nav */
+  nav[data-toggle='toc'] .nav .nav {
+    display: block;
   }
 }
