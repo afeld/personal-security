@@ -24,6 +24,11 @@ footer {
 
 nav[data-toggle='toc'] {
   margin-top: $top-margin;
+
+  /* expand the second-level nav */
+  .nav .nav {
+    display: block;
+  }
 }
 
 /* small screens */
@@ -31,10 +36,5 @@ nav[data-toggle='toc'] {
   /* override the Affix plugin so that the navigation isn't sticky */
   nav.affix[data-toggle='toc'] {
     position: static;
-  }
-
-  /* expand the second-level nav */
-  nav[data-toggle='toc'] .nav .nav {
-    display: block;
   }
 }
