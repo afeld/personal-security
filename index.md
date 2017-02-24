@@ -55,7 +55,18 @@ These tips require a bit more commitment or technical comfort, but are worth the
   - [WhatsApp](https://www.whatsapp.com/)
   - [More options](http://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
 
-### Sending sensitive information
+### Sensitive information
+
+Examples of sensitive information:
+
+* Credit card numbers
+* Passwords
+
+#### Who to share it with
+
+**If someone contacts you via phone or email and asks for sensitive information, don't give it to them.** This often comes up as fake customer support or debt collectors. If this happens and you think it _might_ be legitimate, follow up via official channels (the number on the back of your credit card, etc.)
+
+#### How to send
 
 **Don't share sensitive information in SMS or (unencrypted) email directly.** Instead, use [Fugacious](https://fugacio.us/) and send the link.
 
