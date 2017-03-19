@@ -89,6 +89,7 @@ Try one of the following:
 
 - Apple iMessage (versus normal SMS)
 - [1Password](https://1password.com/)
+- [Dashlane](https://www.dashlane.com/)
 - [KeePassX](https://www.keepassx.org/) (free and open source)
 - [LastPass](https://www.lastpass.com/)
 - One that comes built in to your browser
