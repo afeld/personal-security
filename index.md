@@ -5,19 +5,23 @@
 
 This is a guide for individuals who are interested in improving their digital security/privacy. Only basic knowledge of how to use your computer and mobile device is required.
 
+***Also available as [slides](https://docs.google.com/presentation/d/1JOz8X0cOL4Osn1nnFVRVmHfCRjg8hX6YtAw6oMFbtDo/edit#slide=id.g1f850e06f9_0_214).***
+
 ## Low-hanging fruit
 
 _Everyone should do these._ You only need to set them up once, are high value for relatively low effort, and there is little/no downside.
 
 ### Browser(s)
 
-- **Install the [HTTPS Everywhere](https://www.eff.org/https-everywhere%20) browser extension.**
+- **Install the [HTTPS Everywhere](https://www.eff.org/https-everywhere) browser extension.**
 
 ### Devices
 
 _Computers, phones, tablets, etc._
 
-- **Enable password/fingerprint lock.**
+- **Lock your device**, using fingerprint/PIN/passcode/whatever.
+    - [Android](https://www.howtogeek.com/165507/everything-you-need-to-know-about-customizing-androids-lock-screen/)
+    - [iOS](https://support.apple.com/en-us/HT204060)
 - **Set them to auto-lock after a short period of time (less than five minutes).**
 - **Enable full disk encryption.**
   - Back up your system first
@@ -51,9 +55,10 @@ These tips require a bit more commitment or technical comfort, but are worth the
 ### Messaging
 
 - **Use a messaging application with end-to-end encryption (E2EE).** Note that these do require the recipient to be using the same app.
-  - [Signal](https://whispersystems.org/)
-  - [WhatsApp](https://www.whatsapp.com/)
-  - [More options](http://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
+    - Apple iMessage (versus normal SMS)
+    - [Signal](https://whispersystems.org/)
+    - [WhatsApp](https://www.whatsapp.com/)
+    - [More options](http://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
 
 ### Sensitive information
 
@@ -61,6 +66,7 @@ Examples of sensitive information:
 
 * Credit card numbers
 * Passwords
+* Social security numbers
 
 #### Who to share it with
 
@@ -87,7 +93,6 @@ Examples of sensitive information:
 
 Try one of the following:
 
-- Apple iMessage (versus normal SMS)
 - [1Password](https://1password.com/)
 - [Dashlane](https://www.dashlane.com/)
 - [KeePassX](https://www.keepassx.org/) (free and open source)
