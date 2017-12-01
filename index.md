@@ -164,3 +164,4 @@ this guide will not be enough. You should follow this guide, but also consult a 
 * [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.htm)
 * [Crash Override's Automated Cybersecurity Helper (C.O.A.C.H)](http://www.crashoverridenetwork.com/coach.html)
     * A resource "for people who are experiencing online abuse"
+* [Windows Security From The Ground Up](https://decentsecurity.com/#/securing-your-computer/)
