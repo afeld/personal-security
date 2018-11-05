@@ -31,6 +31,9 @@ _Computers, phones, tablets, etc._
   - Phone
     - [Android](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/)
     - iOS: just set a password
+- **Install virus/malware scanning software.**
+  - Phone - [NYC Secure](https://secure.nyc/index.html) app
+  - For computer, probably worth paying rather than using a free one that might be questionable
 
 ### Passwords
 
