@@ -77,7 +77,10 @@ Examples of sensitive information:
 
 #### How to send
 
-**Don't share sensitive information in SMS or (unencrypted) email directly.** Instead, use [Fugacious](https://fugacio.us/) and send the link.
+**Don't share sensitive information in SMS or (unencrypted) email directly.** Instead, use one of these services and then send a link:
+
+* [Firefox Send](https://send.firefox.com/)
+* [Fugacious](https://fugacio.us/)
 
 ### Passwords
 
