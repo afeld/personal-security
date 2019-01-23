@@ -110,7 +110,14 @@ Try one of the following:
 
 #### Multi-factor authentication
 
-**Enable multi-factor authentication (MFA) on every service that you can.** MFA means that a service requires more than just a password to log in. This means that even if a hacker is able to steal/guess your password, they still won't be able to log in. A large number of services offer MFA — see [this list](https://twofactorauth.org/).
+**Enable multi-factor authentication (MFA) on every service that you can.** MFA means that a service requires more than just a password to log in. This means that even if a hacker is able to steal/guess your password, they still won't be able to log in.
+
+A large number of services offer MFA — see [this list](https://twofactorauth.org/). Prioritize services that you frequently use for communication, or that have sensitive information like your contacts, financial, payment, or health information. Examples of services that might be at the top of that list:
+
+* Bank(s)
+* Ecommerce
+* Email
+* Social media
 
 When enabling MFA, using text messages (SMS) or [Authy](https://www.authy.com/) is recommended. Unlike the popular [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en), if you lose your phone, you won't be locked out of your accounts.
 
