@@ -132,12 +132,9 @@ When enabling MFA, using text messages (SMS) or [Authy](https://www.authy.com/) 
 
 ### Payments
 
-- **Pay with a credit card chip.**
-- **Use disposable/one-time/virtual credit card numbers for payments, especially if you are wary of the vendor.**
-  - [Bank of America ShopSafe](https://www.bankofamerica.com/privacy/accounts-cards/shopsafe.go)
-  - [Citi Bank Virtual Account Numbers](https://www.cardbenefits.citi.com/Products/Virtual-Account-Numbers)
-  - [Privacy.com](https://privacy.com/) - works with any bank
-- **Make online payments through PayPal, or another trusted service that guarantees payments.**
+- **When paying in-person using a credit or debit card, use the chip** instead of swiping.
+- **[Use disposable/one-time/virtual credit card numbers](https://www.doctorofcredit.com/list-of-banks-which-offer-virtual-account-numbers/) for payments**, especially if you are wary of the vendor.
+- **Make online payments through PayPal or another trusted service** instead of entering your payment information into a third-party site directly.
 - **Don't let vendors store your credit card details.**
   - Many will have an option like "save for later" — don't check that box.
 
