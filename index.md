@@ -141,7 +141,8 @@ When enabling MFA, using text messages (SMS) or [Authy](https://www.authy.com/) 
 
 ### Wifi
 
-**Make sure there is a password on your wifi network.** If you like having an open network, you can buy a router with a built-in public hotspot.
+- **Make sure there is a password on your wifi network.** If you like having an open network, you can buy a router with a built-in public hotspot.
+- [**Check for upgrades to your router firmware.**](https://www.wikihow.com/Update-Router-Firmware)
 
 ## Privacy vs. security
 
