@@ -127,8 +127,9 @@ When enabling MFA, using text messages (SMS) or [Authy](https://www.authy.com/) 
   - When you see the option, make sure that the backups are encrypted.
 - **Update your operating systems and software early and often.**
   - **Enable automatic updates.**
-    - [Mac](https://support.apple.com/kb/PH25371?locale=en_US)
     - [iOS](http://www.howtogeek.com/232426/how-to-enable-or-disable-automatic-updates-for-ios-apps/)
+    - [Mac](https://support.apple.com/kb/PH25371?locale=en_US)
+    - [Windows](https://support.microsoft.com/en-us/help/12373/windows-update-faq)
 
 ### Payments
 
