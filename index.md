@@ -133,7 +133,7 @@ When enabling MFA, using text messages (SMS) or [Authy](https://www.authy.com/) 
 
 ### Payments
 
-- **When paying in-person using a credit or debit card, use the chip** instead of swiping.
+- **When paying in-person using a credit or debit card, use the chip or contactless/tap-to-pay** instead of swiping.
 - **[Use disposable/one-time/virtual credit card numbers](https://www.doctorofcredit.com/list-of-banks-which-offer-virtual-account-numbers/) for payments**, especially if you are wary of the vendor.
 - **Make online payments through PayPal or another trusted service** instead of entering your payment information into a third-party site directly.
 - **Don't let vendors store your credit card details.**
