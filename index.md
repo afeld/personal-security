@@ -13,7 +13,7 @@ _Everyone should do these._ You only need to set them up once, are high value fo
 
 ### Browser(s)
 
-- **Install the [HTTPS Everywhere](https://www.eff.org/https-everywhere) browser extension.**
+- **[Enable HTTPS-only mode](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere)**
 
 ### Devices
 
