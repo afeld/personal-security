@@ -22,7 +22,7 @@ footer {
   margin-bottom: 3em;
 }
 
-nav[data-toggle='toc'] {
+nav[data-toggle="toc"] {
   margin-top: $top-margin;
 
   /* expand the second-level nav */
@@ -34,7 +34,7 @@ nav[data-toggle='toc'] {
 /* small screens */
 @media (max-width: 768px) {
   /* override the Affix plugin so that the navigation isn't sticky */
-  nav.affix[data-toggle='toc'] {
+  nav.affix[data-toggle="toc"] {
     position: static;
   }
 }

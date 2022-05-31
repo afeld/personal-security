@@ -1,8 +1,7 @@
 ---
 title: Digital Security and Privacy for Normal People
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: default

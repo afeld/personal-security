@@ -5,7 +5,7 @@
 
 This is a guide for individuals who are interested in improving their digital security/privacy. Only basic knowledge of how to use your computer and mobile device is required.
 
-***Also available as [slides](https://docs.google.com/presentation/d/1JOz8X0cOL4Osn1nnFVRVmHfCRjg8hX6YtAw6oMFbtDo/edit#slide=id.g1f850e06f9_0_214).***
+**_Also available as [slides](https://docs.google.com/presentation/d/1JOz8X0cOL4Osn1nnFVRVmHfCRjg8hX6YtAw6oMFbtDo/edit#slide=id.g1f850e06f9_0_214)._**
 
 ## Low-hanging fruit
 
@@ -20,8 +20,8 @@ _Everyone should do these._ You only need to set them up once, are high value fo
 _Computers, phones, tablets, etc._
 
 - **Lock your device**, using fingerprint/PIN/passcode/whatever.
-    - [Android](https://www.howtogeek.com/165507/everything-you-need-to-know-about-customizing-androids-lock-screen/)
-    - [iOS](https://support.apple.com/en-us/HT204060)
+  - [Android](https://www.howtogeek.com/165507/everything-you-need-to-know-about-customizing-androids-lock-screen/)
+  - [iOS](https://support.apple.com/en-us/HT204060)
 - **Set them to auto-lock after a short period of time (less than five minutes).**
 - **Enable full disk encryption.**
   - Back up your system first
@@ -39,15 +39,15 @@ _Computers, phones, tablets, etc._
 
 **Use non-trivial passwords.** Make sure that your passwords:
 
-* Incorporate letters, numbers, and symbols
-* Are long (the longer the better)
-* Are not common, such as
-  * A word from the dictionary
-  * `password`, or some variation thereof
-* Are not something that can be easily guessed based on public records or social media, such as
-  * Your birthday
-  * Your child's/pet's name
-  * etc.
+- Incorporate letters, numbers, and symbols
+- Are long (the longer the better)
+- Are not common, such as
+  - A word from the dictionary
+  - `password`, or some variation thereof
+- Are not something that can be easily guessed based on public records or social media, such as
+  - Your birthday
+  - Your child's/pet's name
+  - etc.
 
 Without following these guidelines, hackers can get into your account(s) extremely easily. Note that different services have different requirements around passwords.
 
@@ -58,18 +58,18 @@ These tips require a bit more commitment or technical comfort, but are worth the
 ### Messaging
 
 - **Use a messaging application with end-to-end encryption (E2EE).** Note that these do require the recipient to be using the same app.
-    - Apple iMessage (versus normal SMS)
-    - [Signal](https://whispersystems.org/)
-    - [WhatsApp](https://www.whatsapp.com/)
-    - [More options](http://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
+  - Apple iMessage (versus normal SMS)
+  - [Signal](https://whispersystems.org/)
+  - [WhatsApp](https://www.whatsapp.com/)
+  - [More options](http://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
 
 ### Sensitive information
 
 Examples of sensitive information:
 
-* Credit card numbers
-* Passwords
-* Social security numbers
+- Credit card numbers
+- Passwords
+- Social security numbers
 
 #### Who to share it with
 
@@ -79,8 +79,8 @@ Examples of sensitive information:
 
 **Don't share sensitive information in SMS or (unencrypted) email directly.** Instead, use one of these services and then send a link:
 
-* [Firefox Send](https://send.firefox.com/)
-* [Fugacious](https://fugacio.us/)
+- [Firefox Send](https://send.firefox.com/)
+- [Fugacious](https://fugacio.us/)
 
 ### Passwords
 
@@ -92,10 +92,10 @@ Examples of sensitive information:
 
 **Use a password manager.** A password manager solves a number of problems:
 
-* You don't have to remember all of your different passwords for different services.
-* Your list of passwords can't be stolen as easily as if they are written on paper, a Word document, or a spreadsheet.
-* Most can generate a random, non-trivial password.
-  * This often means you won't know your own password for a given service...which is not a bad thing!
+- You don't have to remember all of your different passwords for different services.
+- Your list of passwords can't be stolen as easily as if they are written on paper, a Word document, or a spreadsheet.
+- Most can generate a random, non-trivial password.
+  - This often means you won't know your own password for a given service...which is not a bad thing!
 
 Try one of the following:
 
@@ -114,10 +114,10 @@ Try one of the following:
 
 A large number of services offer MFA — see [this list](https://twofactorauth.org/). Prioritize services that you frequently use for communication, or that have sensitive information like your contacts, financial, payment, or health information. Examples of services that might be at the top of that list:
 
-* Bank(s)
-* Ecommerce
-* Email
-* Social media
+- Bank(s)
+- Ecommerce
+- Email
+- Social media
 
 When enabling MFA, using text messages (SMS) or [Authy](https://www.authy.com/) is recommended. Unlike the popular [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en), if you lose your phone, you won't be locked out of your accounts.
 
@@ -150,31 +150,31 @@ In short, security is like having bars on your windows: hackers can't get in, bu
 
 ## Glossary
 
-* **Multi-factor authentication (MFA)**: A service requiring more than just a password to log in.
-* **Passphrase**: Synonym for `password`.
-* **Privacy**: TODO
-* **Security**: TODO
-* **SMS**: Short Message Service, also known as "text messages".
-* **Two-factor authentication (2FA):** See `multi-factor authentication`.
+- **Multi-factor authentication (MFA)**: A service requiring more than just a password to log in.
+- **Passphrase**: Synonym for `password`.
+- **Privacy**: TODO
+- **Security**: TODO
+- **SMS**: Short Message Service, also known as "text messages".
+- **Two-factor authentication (2FA):** See `multi-factor authentication`.
 
 ## Disclaimer
 
 This guide makes no guarantees that, even with following all steps of this guide, that your digital security/privacy will not be compromised. If you are a high-value target for hackers, such as
 
-* An activist
-* A celebrity
-* An executive
-* A journalist
-* A politician
+- An activist
+- A celebrity
+- An executive
+- A journalist
+- A politician
 
 this guide will not be enough. You should follow this guide, but also consult a security professional.
 
 ## See also
 
-* [Electronic Frontier Foundation (EFF)'s Surevillance Self-Defense Guide](https://ssd.eff.org/)
-* [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450#)
-    * The inspiration for this guide
-* [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.htm)
-* [Crash Override's Automated Cybersecurity Helper (C.O.A.C.H)](http://www.crashoverridenetwork.com/coach.html)
-    * A resource "for people who are experiencing online abuse"
-* [Windows Security From The Ground Up](https://decentsecurity.com/#/securing-your-computer/)
+- [Electronic Frontier Foundation (EFF)'s Surevillance Self-Defense Guide](https://ssd.eff.org/)
+- [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450#)
+  - The inspiration for this guide
+- [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.htm)
+- [Crash Override's Automated Cybersecurity Helper (C.O.A.C.H)](http://www.crashoverridenetwork.com/coach.html)
+  - A resource "for people who are experiencing online abuse"
+- [Windows Security From The Ground Up](https://decentsecurity.com/#/securing-your-computer/)
