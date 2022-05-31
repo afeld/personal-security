@@ -59,7 +59,7 @@ These tips require a bit more commitment or technical comfort, but are worth the
 
 - **Use a messaging application with end-to-end encryption (E2EE).** Note that these do require the recipient to be using the same app.
   - Apple iMessage (versus normal SMS)
-  - [Signal](https://whispersystems.org/)
+  - [Signal](https://signal.org/) — see whole page on [Why Signal](why-signal)
   - [WhatsApp](https://www.whatsapp.com/)
   - [More options](http://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
 

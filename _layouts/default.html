@@ -61,7 +61,7 @@
         <div class="col-sm-3">
           <nav id="toc" data-spy="affix" data-toggle="toc"></nav>
         </div>
-        <div class="col-sm-9">{{ content }}</div>
+        <div class="col-sm-9 content">{{ content }}</div>
       </div>
     </div>
     <footer class="text-center">
@@ -76,6 +76,9 @@
     </footer>
     <script type="text/javascript">
       anchors.add("h2,h3");
+
+      // Prettier forces a newline between tables and Kramdown's block inline attribute lists, so add the class here
+      $(".content table").addClass("table");
     </script>
   </body>
 </html>
