@@ -56,3 +56,5 @@ Signal is better than both SMS and other messaging apps for both [privacy and se
 [Download Signal](https://signal.org/download/){: .btn .btn-primary .btn-lg role="button"}
 
 Thanks for reading!
+
+[_Back to homepage_](..)
