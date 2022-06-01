@@ -9,14 +9,14 @@
 
 Signal has a number of similarities with text messaging (SMS) and other messaging apps, but has some notable benefits. We'll go into more detail about some of them below.
 
-|                     Feature | SMS   | iMessage | WhatsApp | Facebook Messenger | Signal |
-| --------------------------: | ----- | -------- | -------- | ------------------ | ------ |
-| Works on Android and iPhone | Yes   | No       | Yes      | Yes                | Yes    |
-|                      Groups | Yes\* | Yes      | Yes      | Yes                | Yes    |
-|                     Replies | No    | No       | Yes      | No                 | Yes    |
-|                   Reactions | No    | Yes\*\*  | Yes\*\*  | Yes\*\*            | Yes    |
-|    [Encrypted](#encryption) | No    | Yes      | Yes      | No                 | Yes    |
-| [Open source](#open-source) | No    | No       | No       | No                 | Yes    |
+|                     Feature | SMS   | iMessage | Facebook Messenger | WhatsApp | Signal |
+| --------------------------: | ----- | -------- | ------------------ | -------- | ------ |
+| Works on Android and iPhone | Yes   | No       | Yes                | Yes      | Yes    |
+|                      Groups | Yes\* | Yes      | Yes                | Yes      | Yes    |
+|                     Replies | No    | Yes      | Yes                | Yes      | Yes    |
+|                   Reactions | No    | Yes\*\*  | Yes\*\*            | Yes\*\*  | Yes    |
+|    [Encrypted](#encryption) | No    | Yes      | No                 | Yes      | Yes    |
+| [Open source](#open-source) | No    | No       | No                 | No       | Yes    |
 
 \*There are sometimes [issues with SMS group messages between Android and iPhone devices](https://forums.att.com/conversations/data-messaging-features-internet-tethering/group-texting-between-an-android-and-iphones/5deff166bad5f2f606258e7b).<br>
 \*\*Limited reaction options
@@ -45,9 +45,9 @@ Software being "open source" means that the code is available for anyone to see.
 
 ## Access to data
 
-Applications made by for-profit companies (WhatsApp, Facebook Messenger, etc.) have access to your messages, and [can and do sell your data](TODO). When you install WhatsApp, it all but [forces you to give your entire address book (phone numbers, emails, addresses, etc.) to Facebook](https://www.vice.com/en/article/qj4qjd/whatsapp-data-security-issues). If you're at all nervous about Big Tech, you should avoid using them. Signal is run by [a non-profit with a privacy-focused mission](https://signalfoundation.org/), and thus they do not have those bad incentives.
+When you install WhatsApp, it all but [forces you to give your entire address book (phone numbers, emails, addresses, etc.) to Facebook](https://www.vice.com/en/article/qj4qjd/whatsapp-data-security-issues). If you're at all nervous about Big Tech, you should avoid using them. Signal is run by [a non-profit with a privacy-focused mission](https://signalfoundation.org/), and thus they do not have those bad incentives.
 
-[Both Android and iPhone allow arbitrary apps to access your text messages](TODO), and it's way too easy for a shady app to do so. They will be even more reckless than major tech companies in using that content. [Example.](TODO)
+[On Android, shady third party apps can ask for permission to access your text messages](https://www.makeuseof.com/tag/important-smartphone-app-permissions/), and it's way too easy to click through and do so. They will be even more reckless than major tech companies in using that content, if not [actively malicious](https://thehackernews.com/2022/05/another-set-of-joker-trojan-laced.html). Even with using Signal, you need to be careful with apps you download and [the permissions you give them](https://www.avg.com/en/signal/guide-to-android-app-permissions-how-to-use-them-smartly).
 
 ## Conclusion
 
