@@ -31,6 +31,12 @@ nav[data-toggle="toc"] {
   }
 }
 
+.youtube-embed {
+  aspect-ratio: 16/9;
+  max-width: 640px;
+  width: 100%;
+}
+
 /* small screens */
 @media (max-width: 768px) {
   /* override the Affix plugin so that the navigation isn't sticky */

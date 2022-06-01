@@ -33,7 +33,7 @@ China, Russia, and other authoritarian countries are known for intercepting mess
 
 Have you ever sent a message or a picture that you'd be embarrassed if a stranger saw? If so, you should be using encrypted messaging. Last Week Tonight did a segment that drives that point home:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XEVlyP4_11M?start=1494" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtube-embed" src="https://www.youtube-nocookie.com/embed/XEVlyP4_11M?start=1494" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **If you don't use encrypted messaging, you should assume that both the company and/or the government can see everything you send.** Even though [WhatsApp uses the same encryption Signal uses](https://www.whatsapp.com/security/), it still controls the app at either end and [shares data with Facebook](https://www.howtogeek.com/722911/is-whatsapp-end-to-end-encrypted-and-does-that-matter-for-privacy/).
 
