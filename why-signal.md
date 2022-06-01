@@ -9,14 +9,7 @@
 
 Signal has a number of similarities with text messaging (SMS) and other messaging apps, but has some notable benefits. We'll go into more detail about some of them below.
 
-|                     Feature | SMS   | iMessage | Facebook Messenger | WhatsApp | Signal |
-| --------------------------: | ----- | -------- | ------------------ | -------- | ------ |
-| Works on Android and iPhone | Yes   | No       | Yes                | Yes      | Yes    |
-|                      Groups | Yes\* | Yes      | Yes                | Yes      | Yes    |
-|                     Replies | No    | Yes      | Yes                | Yes      | Yes    |
-|                   Reactions | No    | Yes\*\*  | Yes\*\*            | Yes\*\*  | Yes    |
-|    [Encrypted](#encryption) | No    | Yes      | No                 | Yes      | Yes    |
-| [Open source](#open-source) | No    | No       | No                 | No       | Yes    |
+{% include messaging-comparison.html %}
 
 \*There are sometimes [issues with SMS group messages between Android and iPhone devices](https://forums.att.com/conversations/data-messaging-features-internet-tethering/group-texting-between-an-android-and-iphones/5deff166bad5f2f606258e7b).<br>
 \*\*Limited reaction options
