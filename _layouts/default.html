@@ -77,8 +77,16 @@
     <script type="text/javascript">
       anchors.add("h2,h3");
 
+      // apply Bootstrap table classes
+      // https://getbootstrap.com/docs/3.4/css/#tables
+
       // Prettier forces a newline between tables and Kramdown's block inline attribute lists, so add the class here
       $(".content table").addClass("table");
+
+      // give contextual colors automatically
+      $(".table td:contains('Yes'):not(:contains('*'))").addClass("success");
+      $(".table td:contains('Yes*')").addClass("warning");
+      $(".table td:contains('No')").addClass("danger");
     </script>
   </body>
 </html>
