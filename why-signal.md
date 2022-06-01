@@ -53,7 +53,9 @@ When you install WhatsApp, it all but [forces you to give your entire address bo
 
 Signal is better than both SMS and other messaging apps for both [privacy and security](../#privacy-vs-security). I hope this has convinced you that you should be using Signal, no matter who you are.
 
-[Download Signal](https://signal.org/download/){: .btn .btn-primary .btn-lg role="button"}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg" role="button" href="https://signal.org/download/">Download Signal</a>
+</p>
 
 Thanks for reading!
 
