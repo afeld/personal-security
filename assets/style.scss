@@ -3,6 +3,12 @@
 
 $top-margin: 40px;
 
+body {
+  // bump the base font size
+  // https: //getbootstrap.com/docs/3.4/css/#type-body-copy
+  font-size: 16px;
+}
+
 .container {
   margin-top: 3em;
 
