@@ -70,6 +70,7 @@ Examples of sensitive information:
 - Credit card numbers
 - Passwords
 - Social security numbers
+- Photos or messages you don't want other people to see
 
 #### Who to share it with
 
