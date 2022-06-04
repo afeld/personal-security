@@ -4,5 +4,5 @@ Requires Ruby 2.x. Run with
 
 ```sh
 bundle
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ```

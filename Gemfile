@@ -1,4 +1,9 @@
 # frozen_string_literal: true
 source 'https://rubygems.org'
 
-gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll'
+
+group :jekyll_plugins do
+  gem "jekyll-sitemap"
+  gem "jekyll-titles-from-headings"
+end
