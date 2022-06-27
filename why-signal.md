@@ -27,7 +27,7 @@ China, Russia, and other authoritarian countries are known for intercepting mess
 
 **_"This doesn't apply to me, I'm not important enough to be a target."_**
 
-Think about that again. Have you ever sent a message or a picture that you'd be embarrassed if a stranger saw? Have you ever sent a message with any other [sensitive information](../#sensitive-information)? If so, you should be using encrypted messaging.
+Think about that again. Have you ever sent a message or a picture that you'd be embarrassed if a stranger saw? Have you ever sent a message with any other [sensitive information](../#sensitive-information)? [Are you someone considering abortion in a state where it's illegal?](https://www.nbcnews.com/news/us-news/prosecutors-states-abortion-now-illegal-begin-prosecute-abortion-provi-rcna35268) If so, you should be using encrypted messaging.
 
 Last Week Tonight did a segment that drives that point home:
 
