@@ -2,13 +2,17 @@
 title: Why Signal
 ---
 
-[![Signal logo](../img/signal_logo.png)](https://signal.org)
-
 # You Should Switch to Signal. Here's Why.
 
 [Over 85% adults in the U.S. own a smartphone](https://www.statista.com/statistics/219865/percentage-of-us-adults-who-own-a-smartphone/), and most of them do some kind of text-based messaging. Standard text messaging (SMS) is popular because it works on almost all phones, but [other messaging apps like Facebook Messenger and WhatsApp have huge popularity](https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/), too. Unfortunately, these all have major privacy tradeoffs.
 
-There is a better alternative: [Signal](https://signal.org). While this secure messaging application for iPhone, Android, and desktop was previously only popular with journalists and nerds, it's gaining wider adoption. This is a good thing, and you should be using it, too. Why? **It's encrypted, it's open source, and others can't access your data**; we'll get into why each of those is important. First, let's look at what different messaging options can and can't do.
+There is a better alternative: [Signal](https://signal.org). While this secure messaging application for iPhone, Android, and desktop was previously only popular with journalists and nerds, it's gaining wider adoption. This is a good thing, and you should be using it, too. Why? **It's encrypted, it's open source, and others can't access your data**; we'll get into why each of those is important.
+
+<a href="https://signal.org">
+  <img class="img-responsive" src="../img/signal_logo.png" alt="Signal logo">
+</a>
+
+First, let's look at what different messaging options can and can't do.
 
 ## Comparison of messaging options
 
