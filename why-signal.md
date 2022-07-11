@@ -6,7 +6,7 @@ title: Why Signal
 
 [Over 85% adults in the U.S. own a smartphone](https://www.statista.com/statistics/219865/percentage-of-us-adults-who-own-a-smartphone/), and most of them do some kind of text-based messaging. Standard text messaging (SMS) is popular because it works on almost all phones, but [other messaging apps like Facebook Messenger and WhatsApp have huge popularity](https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/), too. Unfortunately, these all have major privacy tradeoffs.
 
-There is a better alternative: [Signal](https://signal.org). While this secure messaging application for iPhone, Android, and desktop was previously only popular with journalists and nerds, it's gaining wider adoption. This is a good thing, and you should be using it, too. Why? **It's encrypted, it's open source, and others can't access your data**; we'll get into why each of those is important.
+There is a better alternative: [Signal](https://signal.org). While this secure messaging application for iPhone, Android, and desktop was previously only popular with journalists and nerds, it's gaining wider adoption. This is a good thing, and you should be using it, too. Why? **It's encrypted, it's open source, and others can't access your data.** We'll get into why each of those is important.
 
 <a href="https://signal.org">
   <img class="img-responsive" src="../img/signal_logo.png" alt="Signal logo">
@@ -16,7 +16,7 @@ First, let's look at what different messaging options can and can't do.
 
 ## Comparison of messaging options
 
-Unfortunately, there is no compatibility between the different apps, so everyone you're talking to needs to be using the same thing for messaging: SMS can only talk to SMS, WhatsApp to WhatsApp, etc. Signal has a number of similarities with SMS and other messaging apps, but has some notable benefits.
+Unfortunately, there is no compatibility between the different apps, so everyone you're talking to needs to be using the same thing for messaging: SMS can only talk to SMS, WhatsApp to WhatsApp, etc. Signal has a number of similarities with SMS and other messaging apps, plus some notable benefits.
 
 {% include messaging-comparison.html %}
 
@@ -37,23 +37,19 @@ Last Week Tonight did a segment that drives that point home:
 
 <iframe class="youtube-embed" src="https://www.youtube-nocookie.com/embed/XEVlyP4_11M?start=1494" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**If you don't use encrypted messaging, you should assume that both the company and/or the government can see everything you send.** Even though [WhatsApp uses the same encryption Signal uses](https://www.whatsapp.com/security/), it still controls the app at either end and [shares data with Facebook](https://www.howtogeek.com/722911/is-whatsapp-end-to-end-encrypted-and-does-that-matter-for-privacy/).
+**If you don't use encrypted messaging, you should assume that both the company and the government can see everything you send.** Even though [WhatsApp uses the same encryption Signal uses](https://www.whatsapp.com/security/), it still controls the app at either end and [shares data with Facebook](https://www.howtogeek.com/722911/is-whatsapp-end-to-end-encrypted-and-does-that-matter-for-privacy/).
 
 This is obviously an even bigger deal for people like activists and victims of abuse. "Normal people" using Signal normalizes its use, which means people with even stronger needs for privacy can use it without that being a red flag.
 
 ## Open source
 
-Software being "open source" means that the code is available for anyone to see.
-
-**_"Wait, everyone can see the code? Doesn't that mean they can hack it??"_**
-
-Open source is important for security, because it means an even broader range of security researchers can look through it for vulnerabilities, rather than just people in one company.
+Software being "open source" means that the code is available for anyone to see. Open source is important for security, because it means an even broader range of security researchers can look through it for vulnerabilities, rather than just people in one company.
 
 ## Access to data
 
-When you install WhatsApp, it all but [forces you to give your entire address book (phone numbers, emails, addresses, etc.) to Facebook](https://www.vice.com/en/article/qj4qjd/whatsapp-data-security-issues). If you're at all nervous about Big Tech, you should avoid using them. Signal is run by [a non-profit with a privacy-focused mission](https://signalfoundation.org/), and thus they are not incentivized to sell/profit off of your data.
+When you install WhatsApp, it all but [forces you to give your entire address book (phone numbers, emails, addresses, etc.) to Facebook](https://www.vice.com/en/article/qj4qjd/whatsapp-data-security-issues). If you're at all nervous about Big Tech, you should avoid using WhatsApp, Facebook Messenger, and other messaging apps owned by them. Signal is run by [a non-profit with a privacy-focused mission](https://signalfoundation.org/), and thus they are not incentivized to sell/profit off of your data.
 
-Even if you aren't worried about how those companies will use your data, them storing your messages means that they are a big target, which means hackers actively try to gain access to them.
+Even if you aren't worried about how those companies will use your data, them storing your messages means that they are a big target, which means hackers actively try to gain access to them. With that data centrally stored, it is also easier for [government to gain access to it](https://transparency.fb.com/data/government-data-requests/).
 
 [On Android, shady third party apps can ask for permission to access your text messages](https://www.makeuseof.com/tag/important-smartphone-app-permissions/), and it's way too easy to click through and do so. They will be even more reckless than major tech companies in using that content, if not [actively malicious](https://thehackernews.com/2022/05/another-set-of-joker-trojan-laced.html). Even with using Signal, you need to be careful with apps you download and [the permissions you give them](https://www.avg.com/en/signal/guide-to-android-app-permissions-how-to-use-them-smartly).
 
