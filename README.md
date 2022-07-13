@@ -1,6 +1,6 @@
 ## Run locally
 
-Requires Ruby 2.x. Run with
+Requires Ruby 3.x. Run with
 
 ```sh
 bundle
