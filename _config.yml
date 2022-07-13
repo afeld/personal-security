@@ -1,5 +1,10 @@
 ---
 title: Digital Security and Privacy for Normal People
+
+# jekyll-sitemap needs this to generate valid robots.txt
+# https://web.dev/robots-txt/#provide-an-absolute-url-for-sitemap
+url: https://personal-security.afeld.me
+
 defaults:
   - scope:
       path: ""
