@@ -1,5 +1,6 @@
 ---
 title: Home
+description: Guide for individuals who are interested in improving their digital security/privacy
 ---
 
 # {{ site.title }}

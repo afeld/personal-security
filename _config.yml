@@ -10,3 +10,9 @@ defaults:
       path: ""
     values:
       layout: default
+
+# https://jekyll.github.io/jekyll-seo-tag/advanced-usage/#author-information
+author:
+  name: Aidan Feldman
+  url: https://afeld.me/
+  twitter: aidanfeldman

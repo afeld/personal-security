@@ -1,5 +1,6 @@
 ---
 title: Why Signal
+description: Signal is better than both SMS and other messaging apps for both privacy and security. Find out why.
 ---
 
 <a href="https://signal.org">
