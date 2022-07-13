@@ -37,6 +37,17 @@ nav[data-toggle="toc"] {
   }
 }
 
+// based on
+// https://www.sitepoint.com/accessible-footnotes-css/
+.footnote-ref {
+  font-size: 0.8em;
+  margin-left: 2px;
+  vertical-align: super;
+}
+.footnotes :target {
+  background-color: yellow;
+}
+
 .youtube-embed {
   aspect-ratio: 16/9;
   max-width: 640px;

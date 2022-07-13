@@ -20,9 +20,6 @@ Unfortunately, there is no compatibility between the different apps, so everyone
 
 {% include messaging-comparison.html %}
 
-\*There are sometimes [issues with SMS group messages between Android and iPhone devices](https://forums.att.com/conversations/data-messaging-features-internet-tethering/group-texting-between-an-android-and-iphones/5deff166bad5f2f606258e7b).<br>
-\*\*Limited reaction options
-
 ## Encryption
 
 Without "end-to-end encryption", someone in between you and the person you're talking to can read your messages. Who might do such a thing?

@@ -1,0 +1,7 @@
+{% comment %}
+based on
+https://www.sitepoint.com/accessible-footnotes-css/
+{% endcomment %}
+<td aria-describedby="{{ include.ref }}">
+    {{ include.text }}<a class="footnote-ref" href="#{{ include.ref }}">{{ include.num }}</a>
+</td>
