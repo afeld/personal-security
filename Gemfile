@@ -1,6 +1,4 @@
 # frozen_string_literal: true
-ruby ['>=3.0.0', '<4.0.0']
-
 source 'https://rubygems.org'
 
 gem 'jekyll'
