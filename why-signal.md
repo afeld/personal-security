@@ -27,7 +27,7 @@ China, Russia, and other authoritarian countries are known for intercepting mess
 
 **_"This doesn't apply to me, I'm not important enough to be a target."_**
 
-Think about that again. Have you ever sent a message or a picture that you'd be embarrassed if a stranger saw? Have you ever sent a message with any other [sensitive information](../#sensitive-information)? [Are you someone considering abortion in a state where it's illegal?](https://www.nbcnews.com/news/us-news/prosecutors-states-abortion-now-illegal-begin-prosecute-abortion-provi-rcna35268) If so, you should be using encrypted messaging.
+Think about that again. Have you ever sent a message or a picture that you'd be embarrassed if a stranger saw? Have you ever sent a message with any other [sensitive information](../#sensitive-information)? [Are you someone considering abortion in a state where it's illegal?](https://www.wired.com/story/facebook-message-encryption-abortion/) If so, you should be using encrypted messaging.
 
 Last Week Tonight did a segment that drives that point home:
 
@@ -39,7 +39,7 @@ This is obviously an even bigger deal for people like activists and victims of a
 
 ## Open source
 
-Software being "open source" means that the code is available for anyone to see. Open source is important for security, because it means an even broader range of security researchers can look through it for vulnerabilities, rather than just people in one company.
+Software being "open source" means that the code is available for anyone to see. Open source is important for security, because it means an even broader range of security researchers can look through it for vulnerabilities, rather than just people in one company. This means it's possible to ensure that the app isn't doing anything sketchy, such as [social media apps tracking everything you do when you click links](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser).
 
 ## Access to data
 
