@@ -175,6 +175,7 @@ this guide will not be enough. You should follow this guide, but also consult a 
 ## See also
 
 - [Electronic Frontier Foundation (EFF)'s Surevillance Self-Defense Guide](https://ssd.eff.org/)
+- [Wirecutter's Every Step to Simple Online Security](https://www.nytimes.com/wirecutter/guides/simple-online-security/)
 - [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450#)
   - The inspiration for this guide
 - [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.htm)
