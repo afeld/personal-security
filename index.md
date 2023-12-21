@@ -178,7 +178,8 @@ this guide will not be enough. You should follow this guide, but also consult a 
 - [Wirecutter's Every Step to Simple Online Security](https://www.nytimes.com/wirecutter/guides/simple-online-security/)
 - [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450#)
   - The inspiration for this guide
-- [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.htm)
+- [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.html)
 - [Crash Override's Automated Cybersecurity Helper (C.O.A.C.H)](http://www.crashoverridenetwork.com/coach.html)
   - A resource "for people who are experiencing online abuse"
 - [Windows Security From The Ground Up](https://decentsecurity.com/#/securing-your-computer/)
+- [Mozilla's Privacy Not Included buying guide](https://foundation.mozilla.org/en/privacynotincluded/)
