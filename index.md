@@ -15,14 +15,15 @@ _Everyone should do these._ You only need to set them up once, are high value fo
 
 ### Browser(s)
 
-- **[Enable HTTPS-only mode](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere)**
+- **[Enable HTTPS-only mode](https://www.eff.org/https-everywhere/set-https-default-your-browser)** in all browsers you use regularly
+  - ["Turn on Always use secure connections" in Chrome on Android](https://support.google.com/chrome/answer/10468685?co=GENIE.Platform=Android#zippy=%2Cturn-on-always-use-secure-connections)
 
 ### Devices
 
 _Computers, phones, tablets, etc._
 
 - **Lock your device**, using fingerprint/PIN/passcode/whatever.
-  - [Android](https://www.howtogeek.com/165507/everything-you-need-to-know-about-customizing-androids-lock-screen/)
+  - [Android](https://support.google.com/android/answer/9079129)
   - [iOS](https://support.apple.com/en-us/HT204060)
 - **Set them to auto-lock after a short period of time (less than five minutes).**
 - **Enable full disk encryption.**
@@ -176,7 +177,7 @@ this guide will not be enough. You should follow this guide, but also consult a 
 
 - [Electronic Frontier Foundation (EFF)'s Surevillance Self-Defense Guide](https://ssd.eff.org/)
 - [Wirecutter's Every Step to Simple Online Security](https://www.nytimes.com/wirecutter/guides/simple-online-security/)
-- [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450#)
+- [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450)
   - The inspiration for this guide
 - [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.html)
 - [Crash Override's Automated Cybersecurity Helper (C.O.A.C.H)](http://www.crashoverridenetwork.com/coach.html)
