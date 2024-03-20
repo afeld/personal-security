@@ -24,6 +24,10 @@ Do these for all of your computers, phones, tablets, etc.
   - [Android](https://support.google.com/android/answer/9079129)
   - [iOS](https://support.apple.com/en-us/HT204060)
 - [ ] **Set them to auto-lock** after a short period of time (less than five minutes).
+  - [Android](https://support.google.com/android/answer/9079129)
+  - [iOS](https://support.apple.com/guide/iphone/keep-the-iphone-display-on-longer-iph7117338a8/ios)
+  - [Mac](https://support.apple.com/guide/mac-help/change-lock-screen-settings-on-mac-mh11784/mac)
+  - [Windows](https://support.microsoft.com/en-us/windows/lock-your-windows-pc-automatically-when-you-step-away-from-it-d0a5f536-74ac-0859-820a-4140dac9fcaf)
 - [ ] [**Enable automatic updates.**](https://www.nytimes.com/wirecutter/guides/online-security-enable-automatic-updates/) Update your operating systems and software early and often.
 - [ ] **Enable automatic backups.**
   - [Android](https://support.google.com/android/answer/2819582)
@@ -61,7 +65,7 @@ These tips require a bit more commitment or technical comfort, but are worth the
   - [Apple iMessage](https://support.apple.com/guide/security/imessage-security-overview-secd9764312f/web) (versus normal SMS)
   - [Signal](https://signal.org/) — see whole page on [Why Signal](why-signal)
   - [WhatsApp](https://www.whatsapp.com/)
-  - [More options](https://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
+  - [More options](https://www.tomsguide.com/reference/best-encrypted-messaging-apps)
 
 ### Accounts
 
@@ -88,7 +92,7 @@ Examples of sensitive information:
 
 ### Passwords
 
-- [ ] **Use different ([non-trivial](#passwords)) passwords for every service.**
+- [ ] **Use different ([strong](#passwords)) passwords for every service.**
   - If you use the same password across services, one service getting hacked means your accounts with other services could be compromised. This happens [all the time](https://www.nytimes.com/interactive/2015/07/29/technology/personaltech/what-parts-of-your-information-have-been-exposed-to-hackers-quiz.html?_r=0).
   - The best way to do this is with a [password manager](#password-manager).
 
