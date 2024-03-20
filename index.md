@@ -105,7 +105,7 @@ Try one of the following:
 - [KeePassX](https://www.keepassx.org/) (free and open source)
 - [LastPass](https://www.lastpass.com/)
 - One that comes built in to your browser
-  - Chrome: [Google Smart Lock](https://support.google.com/chrome/answer/95606?co=GENIE.Platform%3DDesktop&hl=en)
+  - Chrome: [Google Smart Lock](https://support.google.com/chrome/answer/95606?co=GENIE.Platform%3DDesktop)
   - [Firefox Password Manager](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import)
   - Safari: [Apple Keychain](https://www.macobserver.com/tmo/article/getting-started-with-apples-keychain-password-manager)
 
@@ -120,7 +120,7 @@ A large number of services offer MFA — see [this list](https://twofactorauth.o
 - Email
 - Social media
 
-When enabling MFA, using text messages (SMS) or [Authy](https://www.authy.com/) is recommended. Unlike the popular [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en), if you lose your phone, you won't be locked out of your accounts.
+When enabling MFA, using text messages (SMS) or [Authy](https://www.authy.com/) is recommended. Unlike the popular [Google Authenticator](https://support.google.com/accounts/answer/1066447), if you lose your phone, you won't be locked out of your accounts.
 
 ### Devices
 
