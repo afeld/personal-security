@@ -15,6 +15,11 @@ _Everyone should do these._ You only need to set them up once, are high value fo
 
 - [ ] **[Enable HTTPS-only mode](https://www.eff.org/https-everywhere/set-https-default-your-browser)** in all browsers you use regularly
   - ["Turn on Always use secure connections" in Chrome on Android](https://support.google.com/chrome/answer/10468685?co=GENIE.Platform=Android#zippy=%2Cturn-on-always-use-secure-connections)
+- [ ] **Delete extensions you don't use.**
+  - [Chrome](https://support.google.com/chrome_webstore/answer/2664769)
+  - [Edge](https://support.microsoft.com/en-us/microsoft-edge/add-turn-off-or-remove-extensions-in-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026)
+  - [Firefox](https://support.mozilla.org/en-US/kb/extensions-button)
+  - [Safari](https://support.apple.com/en-us/102343#uninstall)
 
 ### Devices
 
@@ -34,6 +39,9 @@ Do these for all of your computers, phones, tablets, etc.
   - [iOS](https://support.apple.com/guide/iphone/back-up-iphone-iph3ecf67d29/ios)
   - [Mac](https://support.apple.com/mac-backup)
   - [Windows](https://support.microsoft.com/en-us/windows/back-up-your-windows-pc-87a81f8a-78fa-456e-b521-ac0560e32338)
+- [ ] **Delete apps you don't use.**
+  - [Android](https://support.google.com/android/answer/13627979)
+  - [iOS](https://www.theverge.com/23270473/iphone-ios-unused-app-clean-up-offload-how-to)
 
 ### Important accounts
 
@@ -117,9 +125,9 @@ Try one of the following:
 - [Keeper](https://www.keepersecurity.com/personal.html)
 - [LastPass](https://www.lastpass.com/)
 - One that comes built in to your browser
+  - [Edge](https://support.microsoft.com/en-us/topic/edit-your-passwords-in-microsoft-edge-38ef988f-5a65-4c6a-9db8-937995d3ae31)
   - [Firefox Password Manager](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import)
   - [Google (Chrome) Password Manager](https://passwords.google/)
-  - [Microsoft Edge](https://support.microsoft.com/en-us/topic/edit-your-passwords-in-microsoft-edge-38ef988f-5a65-4c6a-9db8-937995d3ae31)
   - [Safari](https://support.apple.com/en-us/105115)
 
 #### [Multi-factor authentication](https://brainstation.io/cybersecurity/two-factor-auth)
@@ -151,6 +159,8 @@ Do these for all of your computers, phones, tablets, etc.
   - Phone
     - [Android](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/)
     - iOS: just set a password
+- [ ] [**iOS/Mac: Review your personalized ads setting.**](https://support.apple.com/en-us/105131)
+- [ ] [**iOS: Review app tracking permissions.**](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios)
 
 ### Payments
 
