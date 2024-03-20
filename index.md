@@ -7,8 +7,6 @@ description: Guide for individuals who are interested in improving their digital
 
 This is a guide for individuals who are interested in improving their digital security/privacy. Only basic knowledge of how to use your computer and mobile device is required.
 
-**_Also available as [slides](https://docs.google.com/presentation/d/1JOz8X0cOL4Osn1nnFVRVmHfCRjg8hX6YtAw6oMFbtDo/edit#slide=id.g1f850e06f9_0_214)._**
-
 ## Low-hanging fruit
 
 _Everyone should do these._ You only need to set them up once, are high value for relatively low effort, and there is little/no downside.
@@ -186,6 +184,7 @@ this guide will not be enough. You should follow this guide, but also consult a 
 
 ## See also
 
+- [A workshop version of this page as slides](https://docs.google.com/presentation/d/1JOz8X0cOL4Osn1nnFVRVmHfCRjg8hX6YtAw6oMFbtDo/edit)
 - [Electronic Frontier Foundation (EFF)'s Surevillance Self-Defense Guide](https://ssd.eff.org/)
 - [Wirecutter's Every Step to Simple Online Security](https://www.nytimes.com/wirecutter/guides/simple-online-security/)
 - [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450)
