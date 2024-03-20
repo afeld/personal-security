@@ -2,12 +2,20 @@ const generateId = (checkbox) => {
   if (checkbox.id) {
     return checkbox.id;
   }
-  const li = checkbox.closest("li");
-  if (!li) {
+
+  let elForText = checkbox.closest("li");
+  if (!elForText) {
     console.warn("No <li> found for checkbox", checkbox);
     return;
   }
-  const text = li.innerText;
+
+  // use the bolded text, if available
+  const bolded = elForText.getElementsByTagName("strong")[0];
+  if (bolded) {
+    elForText = bolded;
+  }
+
+  const text = elForText.innerText;
   return text.toLowerCase().replace(/\W/g, "");
 };
 
