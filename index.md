@@ -46,8 +46,10 @@ Prioritize securing services that you frequently use for communication, or that 
 
 We'll refer to this in subsequent sections.
 
-- [ ] [**Google: Go through their security and privacy suggestions.**](https://myaccount.google.com/)
-- [ ] [**Meta (Facebook, Instagram, etc.): Go through their Security Checkup.**](https://accountscenter.facebook.com/password_and_security)
+**Go through Security Checkup tools for:**
+
+- [ ] [**Google**](https://myaccount.google.com/intro/security-checkup)
+- [ ] [**Meta (Facebook, Instagram, etc.)**](https://accountscenter.facebook.com/password_and_security)
 
 ### Passwords
 
@@ -69,6 +71,7 @@ These tips require a bit more commitment or technical comfort, but are worth the
 
 ### Accounts
 
+- [ ] [**Google: Go through their Privacy Checkup.**](https://myaccount.google.com/intro/privacycheckup)
 - **Meta (Facebook, Instagram, etc.):** Go through their:
   - [ ] [**Privacy Checkup**](https://www.facebook.com/privacy/checkup/)
   - [ ] [**Ad preferences**](https://accountscenter.facebook.com/ads)
