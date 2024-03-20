@@ -170,9 +170,10 @@ Do these for all of your computers, phones, tablets, etc.
 - **Don't let vendors store your credit card details.**
   - Many will have an option like "save for later" — don't check that box.
 
-### Wifi
+### Networking
 
 - [ ] **Make sure there is a password on your wifi network.** If you like having an open network, you can buy a router with a built-in public hotspot.
+- [ ] **Set up [DNS over HTTPS](https://www.cloudflare.com/learning/dns/dns-over-tls/).**
 - [ ] [**Check for upgrades to your router firmware.**](https://www.wikihow.com/Update-Router-Firmware)
 
 ## Privacy vs. security
