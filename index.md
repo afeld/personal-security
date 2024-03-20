@@ -23,10 +23,7 @@ Do these for all of your computers, phones, tablets, etc.
 - [ ] **Lock your device**, using fingerprint/PIN/passcode/whatever.
   - [Android](https://support.google.com/android/answer/9079129)
   - [iOS](https://support.apple.com/en-us/HT204060)
-- [ ] **Set them to auto-lock after a short period of time (less than five minutes).**
-- [ ] **Install virus/malware scanning software.**
-  - Phone - [NYC Secure](https://secure.nyc/index.html) app
-  - For computer, probably worth paying rather than using a free one that might be questionable
+- [ ] **Set them to auto-lock** after a short period of time (less than five minutes).
 - [ ] [**Enable automatic updates.**](https://www.nytimes.com/wirecutter/guides/online-security-enable-automatic-updates/) Update your operating systems and software early and often.
 - [ ] **Enable automatic backups.**
   - [Android](https://support.google.com/android/answer/2819582)
@@ -47,18 +44,8 @@ We'll refer to this in subsequent sections.
 
 ### Passwords
 
-- [ ] Go through your [important accounts](#important-accounts) and devices and **set non-trivial passwords.** Make sure that your passwords:
-  - Incorporate letters, numbers, and symbols
-  - Are long (the longer the better)
-  - Are not common, such as
-    - A word from the dictionary
-    - `password`, or some variation thereof
-  - Are not something that can be easily guessed based on public records or social media, such as
-    - Your birthday
-    - Your child's/pet's name
-    - etc.
-
-Without following these guidelines, hackers can get into your account(s) extremely easily. Note that different services have different requirements around passwords.
+- [ ] Go through your [important accounts](#important-accounts) and devices and **set [strong passwords](https://support.microsoft.com/en-us/windows/create-and-use-strong-passwords-c5cebb49-8c53-4f5e-2bc4-fe357ca048eb).**
+  - Otherwise, hackers can get into your account(s) extremely easily. Note that different services have different requirements around passwords.
 
 ## Next steps
 
@@ -66,8 +53,9 @@ These tips require a bit more commitment or technical comfort, but are worth the
 
 ### Messaging
 
-- [ ] **Use a messaging application with end-to-end encryption (E2EE).** Note that these do require the recipient to be using the same app.
-  - Apple iMessage (versus normal SMS)
+- [ ] **Use a messaging app with end-to-end encryption** (E2EE). Note that these do require the recipient to be using the same app.
+  - [Android RCS chats](https://support.google.com/messages/answer/7189714)
+  - [Apple iMessage](https://support.apple.com/guide/security/imessage-security-overview-secd9764312f/web) (versus normal SMS)
   - [Signal](https://signal.org/) — see whole page on [Why Signal](why-signal)
   - [WhatsApp](https://www.whatsapp.com/)
   - [More options](https://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
@@ -97,7 +85,9 @@ Examples of sensitive information:
 
 #### Password manager
 
-**Use a password manager.** A password manager solves a number of problems:
+- [ ] **Use a password manager.**
+
+A password manager solves a number of problems:
 
 - You don't have to remember all of your different passwords for different services.
 - Your list of passwords can't be stolen as easily as if they are written on paper, a Word document, or a spreadsheet.
