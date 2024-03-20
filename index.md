@@ -113,12 +113,13 @@ Try one of the following:
 
 - [1Password](https://1password.com/)
 - [Dashlane](https://www.dashlane.com/)
-- [KeePassX](https://www.keepassx.org/) (free and open source)
+- [Keeper](https://www.keepersecurity.com/personal.html)
 - [LastPass](https://www.lastpass.com/)
 - One that comes built in to your browser
-  - Chrome: [Google Smart Lock](https://support.google.com/chrome/answer/95606?co=GENIE.Platform%3DDesktop)
   - [Firefox Password Manager](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import)
-  - Safari: [Apple Keychain](https://www.macobserver.com/tmo/article/getting-started-with-apples-keychain-password-manager)
+  - [Google (Chrome) Password Manager](https://passwords.google/)
+  - [Microsoft Edge](https://support.microsoft.com/en-us/topic/edit-your-passwords-in-microsoft-edge-38ef988f-5a65-4c6a-9db8-937995d3ae31)
+  - [Safari](https://support.apple.com/en-us/105115)
 
 #### [Multi-factor authentication](https://brainstation.io/cybersecurity/two-factor-auth)
 
