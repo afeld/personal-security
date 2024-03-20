@@ -1,8 +1,4 @@
-const generateId = (checkbox) => {
-  if (checkbox.id) {
-    return checkbox.id;
-  }
-
+const getCheckboxText = (checkbox) => {
   let elForText = checkbox.closest("li");
   if (!elForText) {
     console.warn("No <li> found for checkbox", checkbox);
@@ -15,7 +11,15 @@ const generateId = (checkbox) => {
     elForText = bolded;
   }
 
-  const text = elForText.innerText;
+  return elForText.innerText;
+};
+
+const generateId = (checkbox) => {
+  if (checkbox.id) {
+    return checkbox.id;
+  }
+
+  const text = getCheckboxText(checkbox);
   return text.toLowerCase().replace(/\W/g, "");
 };
 
