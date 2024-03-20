@@ -33,7 +33,7 @@ Do these for all of your computers, phones, tablets, etc.
 
 ### Important accounts
 
-Prioritize services that you frequently use for communication, or that have sensitive information like your contacts, financial, payment, or health information. Examples of services that might be at the top of that list:
+Prioritize securing services that you frequently use for communication, or that have sensitive information like your contacts, financial, payment, or health information. Examples of services that might be at the top of that list:
 
 - Bank(s)
 - Ecommerce
@@ -41,6 +41,9 @@ Prioritize services that you frequently use for communication, or that have sens
 - Social media
 
 We'll refer to this in subsequent sections.
+
+- [ ] [**Google: Go through their security and privacy suggestions.**](https://myaccount.google.com/)
+- [ ] [**Meta (Facebook, Instagram, etc.): Go through their Security Checkup.**](https://accountscenter.facebook.com/password_and_security)
 
 ### Passwords
 
@@ -59,6 +62,12 @@ These tips require a bit more commitment or technical comfort, but are worth the
   - [Signal](https://signal.org/) — see whole page on [Why Signal](why-signal)
   - [WhatsApp](https://www.whatsapp.com/)
   - [More options](https://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
+
+### Accounts
+
+- **Meta (Facebook, Instagram, etc.):** Go through their:
+  - [ ] [**Privacy Checkup**](https://www.facebook.com/privacy/checkup/)
+  - [ ] [**Ad preferences**](https://accountscenter.facebook.com/ads)
 
 ### Sensitive information
 
