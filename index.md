@@ -29,7 +29,7 @@ _Computers, phones, tablets, etc._
 - **Enable full disk encryption.**
   - Back up your system first
   - Computer
-    - Windows: [BitLocker](https://support.microsoft.com/en-us/instantanswers/e7d75dd2-29c2-16ac-f03d-20cfdf54202f/turn-on-device-encryption)
+    - Windows: [BitLocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838)
     - Mac: [FileVault](https://support.apple.com/en-us/HT204837)
   - Phone
     - [Android](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/)
@@ -64,7 +64,7 @@ These tips require a bit more commitment or technical comfort, but are worth the
   - Apple iMessage (versus normal SMS)
   - [Signal](https://signal.org/) — see whole page on [Why Signal](why-signal)
   - [WhatsApp](https://www.whatsapp.com/)
-  - [More options](http://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
+  - [More options](https://www.techtimes.com/articles/169154/20160709/9-messaging-apps-with-end-to-end-encryption-facebook-messenger-whatsapp-imessage-and-more.htm)
 
 ### Sensitive information
 
@@ -81,10 +81,7 @@ Examples of sensitive information:
 
 #### How to send
 
-**Don't share sensitive information in SMS or (unencrypted) email directly.** Instead, use one of these services and then send a link:
-
-- [Firefox Send](https://send.firefox.com/)
-- [Fugacious](https://fugacio.us/)
+**Don't share sensitive information in SMS or (unencrypted) email directly.** See more info for [Gmail](https://support.google.com/mail/answer/6330403) and [Outlook](https://support.microsoft.com/en-us/office/encrypt-email-messages-373339cb-bf1a-4509-b296-802a39d801dc). An easy alternative is putting the information in a file/document in Google Drive / Dropbox / etc. and sharing that.
 
 ### Passwords
 
@@ -131,7 +128,7 @@ When enabling MFA, using text messages (SMS) or [Authy](https://www.authy.com/) 
   - When you see the option, make sure that the backups are encrypted.
 - **Update your operating systems and software early and often.**
   - **Enable automatic updates.**
-    - [iOS](http://www.howtogeek.com/232426/how-to-enable-or-disable-automatic-updates-for-ios-apps/)
+    - [iOS](https://www.howtogeek.com/232426/how-to-enable-or-disable-automatic-updates-for-ios-apps/)
     - [Mac](https://support.apple.com/kb/PH25371?locale=en_US)
     - [Windows](https://support.microsoft.com/en-us/help/12373/windows-update-faq)
 
@@ -180,7 +177,5 @@ this guide will not be enough. You should follow this guide, but also consult a 
 - [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450)
   - The inspiration for this guide
 - [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.html)
-- [Crash Override's Automated Cybersecurity Helper (C.O.A.C.H)](http://www.crashoverridenetwork.com/coach.html)
-  - A resource "for people who are experiencing online abuse"
 - [Windows Security From The Ground Up](https://decentsecurity.com/#/securing-your-computer/)
 - [Mozilla's Privacy Not Included buying guide](https://foundation.mozilla.org/en/privacynotincluded/)
