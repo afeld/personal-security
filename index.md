@@ -15,18 +15,18 @@ _Everyone should do these._ You only need to set them up once, are high value fo
 
 ### Browser(s)
 
-- **[Enable HTTPS-only mode](https://www.eff.org/https-everywhere/set-https-default-your-browser)** in all browsers you use regularly
+- [ ] **[Enable HTTPS-only mode](https://www.eff.org/https-everywhere/set-https-default-your-browser)** in all browsers you use regularly
   - ["Turn on Always use secure connections" in Chrome on Android](https://support.google.com/chrome/answer/10468685?co=GENIE.Platform=Android#zippy=%2Cturn-on-always-use-secure-connections)
 
 ### Devices
 
 _Computers, phones, tablets, etc._
 
-- **Lock your device**, using fingerprint/PIN/passcode/whatever.
+- [ ] **Lock your device**, using fingerprint/PIN/passcode/whatever.
   - [Android](https://support.google.com/android/answer/9079129)
   - [iOS](https://support.apple.com/en-us/HT204060)
-- **Set them to auto-lock after a short period of time (less than five minutes).**
-- **Enable full disk encryption.**
+- [ ] **Set them to auto-lock after a short period of time (less than five minutes).**
+- [ ] **Enable full disk encryption.**
   - Back up your system first
   - Computer
     - Windows: [BitLocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838)
@@ -34,7 +34,7 @@ _Computers, phones, tablets, etc._
   - Phone
     - [Android](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/)
     - iOS: just set a password
-- **Install virus/malware scanning software.**
+- [ ] **Install virus/malware scanning software.**
   - Phone - [NYC Secure](https://secure.nyc/index.html) app
   - For computer, probably worth paying rather than using a free one that might be questionable
 
@@ -51,17 +51,16 @@ We'll refer to this in subsequent sections.
 
 ### Passwords
 
-Go through your [important accounts](#important-accounts) and devices and **set non-trivial passwords.** Make sure that your passwords:
-
-- Incorporate letters, numbers, and symbols
-- Are long (the longer the better)
-- Are not common, such as
-  - A word from the dictionary
-  - `password`, or some variation thereof
-- Are not something that can be easily guessed based on public records or social media, such as
-  - Your birthday
-  - Your child's/pet's name
-  - etc.
+- [ ] Go through your [important accounts](#important-accounts) and devices and **set non-trivial passwords.** Make sure that your passwords:
+  - Incorporate letters, numbers, and symbols
+  - Are long (the longer the better)
+  - Are not common, such as
+    - A word from the dictionary
+    - `password`, or some variation thereof
+  - Are not something that can be easily guessed based on public records or social media, such as
+    - Your birthday
+    - Your child's/pet's name
+    - etc.
 
 Without following these guidelines, hackers can get into your account(s) extremely easily. Note that different services have different requirements around passwords.
 
@@ -71,7 +70,7 @@ These tips require a bit more commitment or technical comfort, but are worth the
 
 ### Messaging
 
-- **Use a messaging application with end-to-end encryption (E2EE).** Note that these do require the recipient to be using the same app.
+- [ ] **Use a messaging application with end-to-end encryption (E2EE).** Note that these do require the recipient to be using the same app.
   - Apple iMessage (versus normal SMS)
   - [Signal](https://signal.org/) — see whole page on [Why Signal](why-signal)
   - [WhatsApp](https://www.whatsapp.com/)
@@ -96,7 +95,7 @@ Examples of sensitive information:
 
 ### Passwords
 
-- **Use different ([non-trivial](#passwords)) passwords for every service.**
+- [ ] **Use different ([non-trivial](#passwords)) passwords for every service.**
   - If you use the same password across services, one service getting hacked means your accounts with other services could be compromised. This happens [all the time](https://www.nytimes.com/interactive/2015/07/29/technology/personaltech/what-parts-of-your-information-have-been-exposed-to-hackers-quiz.html?_r=0).
   - The best way to do this is with a [password manager](#password-manager).
 
@@ -123,7 +122,9 @@ Try one of the following:
 
 #### [Multi-factor authentication](https://brainstation.io/cybersecurity/two-factor-auth)
 
-**Enable multi-factor authentication (MFA) on all of your [important accounts](#important-accounts).** (Also known as two-factor authentication, or 2FA.) All major services offer MFA — see [this list](https://2fa.directory/).
+- [ ] **Enable multi-factor authentication (MFA) on all of your [important accounts](#important-accounts).**
+
+Also known as two-factor authentication, or 2FA. All major services offer MFA — see [this list](https://2fa.directory/).
 
 When enabling MFA, using one or more of the following is recommended:
 
@@ -140,7 +141,7 @@ When enabling MFA, using one or more of the following is recommended:
 - **Back up your devices regularly.**
   - When you see the option, make sure that the backups are encrypted.
 - **Update your operating systems and software early and often.**
-  - **Enable automatic updates.**
+  - [ ] **Enable automatic updates.**
     - [iOS](https://www.howtogeek.com/232426/how-to-enable-or-disable-automatic-updates-for-ios-apps/)
     - [Mac](https://support.apple.com/kb/PH25371?locale=en_US)
     - [Windows](https://support.microsoft.com/en-us/help/12373/windows-update-faq)
@@ -155,8 +156,8 @@ When enabling MFA, using one or more of the following is recommended:
 
 ### Wifi
 
-- **Make sure there is a password on your wifi network.** If you like having an open network, you can buy a router with a built-in public hotspot.
-- [**Check for upgrades to your router firmware.**](https://www.wikihow.com/Update-Router-Firmware)
+- [ ] **Make sure there is a password on your wifi network.** If you like having an open network, you can buy a router with a built-in public hotspot.
+- [ ] [**Check for upgrades to your router firmware.**](https://www.wikihow.com/Update-Router-Firmware)
 
 ## Privacy vs. security
 

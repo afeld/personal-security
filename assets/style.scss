@@ -37,6 +37,14 @@ nav[data-toggle="toc"] {
   }
 }
 
+input[type="checkbox"].task-list-item-checkbox {
+  margin-right: 0.5rem;
+
+  &[disabled] {
+    display: none;
+  }
+}
+
 // based on
 // https://www.sitepoint.com/accessible-footnotes-css/
 .footnote-ref {
