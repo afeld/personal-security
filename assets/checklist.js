@@ -31,13 +31,16 @@ const persistState = (checkbox) => {
   localStorage.setItem(id, checkbox.checked);
 };
 
-const updateState = (checkbox) => {
+const initializeCheckedState = (checkbox) => {
   const id = generateId(checkbox);
   if (!id) {
     return;
   }
-  const checked = localStorage.getItem(id) === "true";
-  checkbox.checked = checked;
+
+  const val = localStorage.getItem(id);
+  if (val) {
+    checkbox.checked = val == "true";
+  }
 };
 
 const onChange = (event) => {
@@ -49,8 +52,24 @@ document.addEventListener("DOMContentLoaded", () => {
   const checkboxes = document.getElementsByClassName("task-list-item-checkbox");
 
   for (const checkbox of checkboxes) {
-    updateState(checkbox);
+    initializeCheckedState(checkbox);
     checkbox.addEventListener("change", onChange);
     checkbox.removeAttribute("disabled");
+  }
+
+  const devices = document.getElementsByClassName("device-selector");
+
+  for (const device of devices) {
+    const deviceLi = device.parentElement;
+    const name = deviceLi.innerText;
+    console.log(name);
+
+    const lis = document.getElementsByTagName("li");
+    for (const li of lis) {
+      if (li === deviceLi || !li.innerText.startsWith(name)) {
+        continue;
+      }
+      li.style.display = device.checked ? "list-item" : "none";
+    }
   }
 });
