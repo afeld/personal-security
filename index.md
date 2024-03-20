@@ -18,20 +18,12 @@ _Everyone should do these._ You only need to set them up once, are high value fo
 
 ### Devices
 
-_Computers, phones, tablets, etc._
+Do these for all of your computers, phones, tablets, etc.
 
 - [ ] **Lock your device**, using fingerprint/PIN/passcode/whatever.
   - [Android](https://support.google.com/android/answer/9079129)
   - [iOS](https://support.apple.com/en-us/HT204060)
 - [ ] **Set them to auto-lock after a short period of time (less than five minutes).**
-- [ ] **Enable full disk encryption.**
-  - Back up your system first
-  - Computer
-    - Windows: [BitLocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838)
-    - Mac: [FileVault](https://support.apple.com/en-us/HT204837)
-  - Phone
-    - [Android](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/)
-    - iOS: just set a password
 - [ ] **Install virus/malware scanning software.**
   - Phone - [NYC Secure](https://secure.nyc/index.html) app
   - For computer, probably worth paying rather than using a free one that might be questionable
@@ -142,7 +134,17 @@ When enabling MFA, using one or more of the following is recommended:
 
 ### Devices
 
-- [ ] Go through the [Wirecutter **security audit**](https://www.nytimes.com/wirecutter/guides/online-security-secure-your-smartphone/).
+Do these for all of your computers, phones, tablets, etc.
+
+- [ ] [**Go through the Wirecutter Secure Your Smartphone guide.**](https://www.nytimes.com/wirecutter/guides/online-security-secure-your-smartphone/)
+- [ ] **Enable full disk encryption.**
+  - Back up your system first
+  - Computer
+    - Windows: [BitLocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838)
+    - Mac: [FileVault](https://support.apple.com/en-us/HT204837)
+  - Phone
+    - [Android](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/)
+    - iOS: just set a password
 
 ### Payments
 
