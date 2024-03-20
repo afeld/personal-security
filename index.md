@@ -37,6 +37,7 @@ _Computers, phones, tablets, etc._
 - [ ] **Install virus/malware scanning software.**
   - Phone - [NYC Secure](https://secure.nyc/index.html) app
   - For computer, probably worth paying rather than using a free one that might be questionable
+- [ ] [**Enable automatic updates.**](https://www.nytimes.com/wirecutter/guides/online-security-enable-automatic-updates/) Update your operating systems and software early and often.
 
 ### Important accounts
 
@@ -140,11 +141,6 @@ When enabling MFA, using one or more of the following is recommended:
 
 - **Back up your devices regularly.**
   - When you see the option, make sure that the backups are encrypted.
-- **Update your operating systems and software early and often.**
-  - [ ] **Enable automatic updates.**
-    - [iOS](https://www.howtogeek.com/232426/how-to-enable-or-disable-automatic-updates-for-ios-apps/)
-    - [Mac](https://support.apple.com/kb/PH25371?locale=en_US)
-    - [Windows](https://support.microsoft.com/en-us/help/12373/windows-update-faq)
 
 ### Payments
 
