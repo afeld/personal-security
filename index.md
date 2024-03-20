@@ -120,7 +120,16 @@ A large number of services offer MFA — see [this list](https://twofactorauth.o
 - Email
 - Social media
 
-When enabling MFA, using text messages (SMS) or [Authy](https://www.authy.com/) is recommended. Unlike the popular [Google Authenticator](https://support.google.com/accounts/answer/1066447), if you lose your phone, you won't be locked out of your accounts.
+When enabling MFA, using one or more of the following is recommended:
+
+- An app to generate codes that synchronizes:
+  - [1Password](https://support.1password.com/one-time-passwords/)
+  - [Authy](https://www.authy.com/)
+- The service's app, when it supports push notification for MFA. For example:
+  - [Apple ID](https://support.apple.com/en-us/102660)
+- Text messages (SMS)
+
+Unlike the popular [Google Authenticator](https://support.google.com/accounts/answer/1066447), if you lose your phone, you won't be locked out of your accounts.
 
 ### Devices
 
