@@ -38,6 +38,11 @@ _Computers, phones, tablets, etc._
   - Phone - [NYC Secure](https://secure.nyc/index.html) app
   - For computer, probably worth paying rather than using a free one that might be questionable
 - [ ] [**Enable automatic updates.**](https://www.nytimes.com/wirecutter/guides/online-security-enable-automatic-updates/) Update your operating systems and software early and often.
+- [ ] **Enable automatic backups.**
+  - [Android](https://support.google.com/android/answer/2819582)
+  - [iOS](https://support.apple.com/guide/iphone/back-up-iphone-iph3ecf67d29/ios)
+  - [Mac](https://support.apple.com/mac-backup)
+  - [Windows](https://support.microsoft.com/en-us/windows/back-up-your-windows-pc-87a81f8a-78fa-456e-b521-ac0560e32338)
 
 ### Important accounts
 
@@ -139,8 +144,7 @@ When enabling MFA, using one or more of the following is recommended:
 
 ### Devices
 
-- **Back up your devices regularly.**
-  - When you see the option, make sure that the backups are encrypted.
+- [ ] Go through the [Wirecutter **security audit**](https://www.nytimes.com/wirecutter/guides/online-security-secure-your-smartphone/).
 
 ### Payments
 
