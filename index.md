@@ -38,9 +38,20 @@ _Computers, phones, tablets, etc._
   - Phone - [NYC Secure](https://secure.nyc/index.html) app
   - For computer, probably worth paying rather than using a free one that might be questionable
 
+### Important accounts
+
+Prioritize services that you frequently use for communication, or that have sensitive information like your contacts, financial, payment, or health information. Examples of services that might be at the top of that list:
+
+- Bank(s)
+- Ecommerce
+- Email
+- Social media
+
+We'll refer to this in subsequent sections.
+
 ### Passwords
 
-**Use non-trivial passwords.** Make sure that your passwords:
+Go through your [important accounts](#important-accounts) and devices and **set non-trivial passwords.** Make sure that your passwords:
 
 - Incorporate letters, numbers, and symbols
 - Are long (the longer the better)
@@ -109,27 +120,19 @@ Try one of the following:
   - [Firefox Password Manager](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import)
   - Safari: [Apple Keychain](https://www.macobserver.com/tmo/article/getting-started-with-apples-keychain-password-manager)
 
-#### Multi-factor authentication
+#### [Multi-factor authentication](https://brainstation.io/cybersecurity/two-factor-auth)
 
-**Enable multi-factor authentication (MFA) on every service that you can.** MFA means that a service requires more than just a password to log in. This means that even if a hacker is able to steal/guess your password, they still won't be able to log in.
-
-A large number of services offer MFA — see [this list](https://twofactorauth.org/). Prioritize services that you frequently use for communication, or that have sensitive information like your contacts, financial, payment, or health information. Examples of services that might be at the top of that list:
-
-- Bank(s)
-- Ecommerce
-- Email
-- Social media
+**Enable multi-factor authentication (MFA) on all of your [important accounts](#important-accounts).** (Also known as two-factor authentication, or 2FA.) All major services offer MFA — see [this list](https://2fa.directory/).
 
 When enabling MFA, using one or more of the following is recommended:
 
 - An app to generate codes that synchronizes:
   - [1Password](https://support.1password.com/one-time-passwords/)
   - [Authy](https://www.authy.com/)
+  - [Google Authenticator](https://support.google.com/accounts/answer/1066447)
 - The service's app, when it supports push notification for MFA. For example:
   - [Apple ID](https://support.apple.com/en-us/102660)
 - Text messages (SMS)
-
-Unlike the popular [Google Authenticator](https://support.google.com/accounts/answer/1066447), if you lose your phone, you won't be locked out of your accounts.
 
 ### Devices
 
