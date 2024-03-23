@@ -59,12 +59,14 @@ We'll refer to this in subsequent sections.
 Some services have a built-in Security Checkup tools, walking you through various account settings. **Go through them for:**
 
 - [ ] [**Google**](https://myaccount.google.com/intro/security-checkup)
+  - [ ] [**Review My Google Activity.**](https://myactivity.google.com/) Are you ok with Google knowing all of that about you?
 - [ ] [**Meta (Facebook, Instagram, etc.)**](https://accountscenter.facebook.com/password_and_security)
 
 ### Passwords
 
 - [ ] **Set [strong passwords](https://support.microsoft.com/en-us/windows/create-and-use-strong-passwords-c5cebb49-8c53-4f5e-2bc4-fe357ca048eb)** on all of your [important accounts](#important-accounts) and [devices](#devices).
   - Otherwise, hackers can get into your account(s) extremely easily. Different services have different requirements around passwords.
+  - This is easier if you [set up a password manager](#password-manager).
 
 ### [Multi-factor authentication](https://brainstation.io/cybersecurity/two-factor-auth)
 
@@ -83,6 +85,8 @@ When enabling MFA, using one or more of the following is recommended:
   - [Google](https://support.google.com/accounts/answer/7026266)
 - Text messages (SMS)
 
+---
+
 ## Next steps
 
 These tips require a bit more commitment or technical comfort, but are worth the effort.
@@ -95,6 +99,8 @@ These tips require a bit more commitment or technical comfort, but are worth the
   - [Signal](https://signal.org/) — see whole page on [Why Signal](why-signal)
   - [WhatsApp](https://www.whatsapp.com/)
   - [More options](https://www.tomsguide.com/reference/best-encrypted-messaging-apps)
+
+For more information, see the [Freedom of the Press Foundation's Secure Communication guide](https://freedom.press/training/secure-communication/).
 
 ### Accounts
 
@@ -128,7 +134,7 @@ Examples of sensitive information:
 
 #### Password manager
 
-- [ ] **Use a password manager.**
+- [ ] **Set up a password manager.**
 
 A password manager solves a number of problems:
 
@@ -137,17 +143,12 @@ A password manager solves a number of problems:
 - Most can generate a random, non-trivial password.
   - This often means you won't know your own password for a given service...which is not a bad thing!
 
-Try one of the following:
+It's worth paying for one of [**the top-recommended options**](https://www.nytimes.com/wirecutter/reviews/best-password-managers/), but if you're cost-conscious or want minimal hassle, you can use one that comes built into your browser:
 
-- [1Password](https://1password.com/)
-- [Dashlane](https://www.dashlane.com/)
-- [Keeper](https://www.keepersecurity.com/personal.html)
-- [LastPass](https://www.lastpass.com/)
-- One that comes built in to your browser
-  - [Edge](https://support.microsoft.com/en-us/topic/edit-your-passwords-in-microsoft-edge-38ef988f-5a65-4c6a-9db8-937995d3ae31)
-  - [Firefox Password Manager](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import)
-  - [Google (Chrome) Password Manager](https://passwords.google/)
-  - [Safari](https://support.apple.com/en-us/105115)
+- [Edge](https://support.microsoft.com/en-us/topic/edit-your-passwords-in-microsoft-edge-38ef988f-5a65-4c6a-9db8-937995d3ae31)
+- [Firefox Password Manager](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import)
+- [Google (Chrome) Password Manager](https://passwords.google/)
+- [Safari](https://support.apple.com/en-us/105115)
 
 ### Devices
 
@@ -178,6 +179,8 @@ Do these for all of your computers, phones, tablets, etc.
 - [ ] **Make sure there is a password on your wifi network.** If you like having an open network, you can buy a router with a built-in public hotspot.
 - [ ] **Set up [DNS over HTTPS](https://www.cloudflare.com/learning/dns/dns-over-tls/).**
 - [ ] [**Check for upgrades to your router firmware.**](https://www.wikihow.com/Update-Router-Firmware)
+
+---
 
 ## Privacy vs. security
 
@@ -214,3 +217,4 @@ this guide will not be enough. You should follow this guide, but also consult a 
 - [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.html)
 - [Windows Security From The Ground Up](https://decentsecurity.com/#/securing-your-computer/)
 - [Mozilla's Privacy Not Included buying guide](https://foundation.mozilla.org/en/privacynotincluded/)
+- [Freedom of the Press Foundation's Online Account Security guide](https://freedom.press/training/online-account-security/)
