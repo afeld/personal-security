@@ -45,7 +45,7 @@ Do these for all of your computers, phones, tablets, etc.
 
 ### Important accounts
 
-Prioritize securing services that you frequently use for communication, or that have sensitive information like your contacts, financial, payment, or health information. Examples of services that might be at the top of that list:
+Prioritize securing services that you frequently use for communication, or that have sensitive information like your contacts, financial, payment, or health information. In other words, which accounts do you have that, if hacked, would be a Big Deal? Examples of services that might be at the top of that list:
 
 - Bank(s)
 - Ecommerce
@@ -54,15 +54,17 @@ Prioritize securing services that you frequently use for communication, or that 
 
 We'll refer to this in subsequent sections.
 
-**Go through Security Checkup tools for:**
+#### Security Checkups
+
+Some services have a built-in Security Checkup tools, walking you through various account settings. **Go through them for:**
 
 - [ ] [**Google**](https://myaccount.google.com/intro/security-checkup)
 - [ ] [**Meta (Facebook, Instagram, etc.)**](https://accountscenter.facebook.com/password_and_security)
 
 ### Passwords
 
-- [ ] Go through your [important accounts](#important-accounts) and devices and **set [strong passwords](https://support.microsoft.com/en-us/windows/create-and-use-strong-passwords-c5cebb49-8c53-4f5e-2bc4-fe357ca048eb).**
-  - Otherwise, hackers can get into your account(s) extremely easily. Note that different services have different requirements around passwords.
+- [ ] **Set [strong passwords](https://support.microsoft.com/en-us/windows/create-and-use-strong-passwords-c5cebb49-8c53-4f5e-2bc4-fe357ca048eb)** on all of your [important accounts](#important-accounts) and [devices](#devices).
+  - Otherwise, hackers can get into your account(s) extremely easily. Different services have different requirements around passwords.
 
 ### [Multi-factor authentication](https://brainstation.io/cybersecurity/two-factor-auth)
 
