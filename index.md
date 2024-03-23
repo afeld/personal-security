@@ -9,7 +9,7 @@ This is a guide for individuals who are interested in improving their digital se
 
 ## Low-hanging fruit
 
-_Everyone should do these._ You only need to set them up once, are high value for relatively low effort, and there is little/no downside.
+_Everyone should do these._ You only need to set them up once, are high value for relatively low effort, and there is little/no downside. Instructions are linked, where possible. You can of course skip any that aren't relevant to you.
 
 ### Browser(s)
 
