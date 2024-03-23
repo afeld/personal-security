@@ -218,3 +218,5 @@ this guide will not be enough. You should follow this guide, but also consult a 
 - [Windows Security From The Ground Up](https://decentsecurity.com/#/securing-your-computer/)
 - [Mozilla's Privacy Not Included buying guide](https://foundation.mozilla.org/en/privacynotincluded/)
 - [Freedom of the Press Foundation's Online Account Security guide](https://freedom.press/training/online-account-security/)
+- [Brian Lovin's Security Checklist](https://brianlovin.com/security)
+- [Smart Girl's Guide to Privacy](https://nostarch.com/smartgirlsguide) (book)
