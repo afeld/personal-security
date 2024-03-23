@@ -64,6 +64,23 @@ We'll refer to this in subsequent sections.
 - [ ] Go through your [important accounts](#important-accounts) and devices and **set [strong passwords](https://support.microsoft.com/en-us/windows/create-and-use-strong-passwords-c5cebb49-8c53-4f5e-2bc4-fe357ca048eb).**
   - Otherwise, hackers can get into your account(s) extremely easily. Note that different services have different requirements around passwords.
 
+### [Multi-factor authentication](https://brainstation.io/cybersecurity/two-factor-auth)
+
+- [ ] **Enable multi-factor authentication (MFA) on all of your [important accounts](#important-accounts).**
+
+Also known as two-factor authentication, or 2FA. All major services offer MFA — see [this list](https://2fa.directory/).
+
+When enabling MFA, using one or more of the following is recommended:
+
+- An app to generate codes that synchronizes:
+  - [1Password](https://support.1password.com/one-time-passwords/) - paid, but is a full-fledged [password manager](#password-manager)
+  - [Authy](https://www.authy.com/) - free
+  - [Google Authenticator](https://support.google.com/accounts/answer/1066447) - free
+- The service's app, when it supports push notification for MFA. For example:
+  - [Apple ID](https://support.apple.com/en-us/102660)
+  - [Google](https://support.google.com/accounts/answer/7026266)
+- Text messages (SMS)
+
 ## Next steps
 
 These tips require a bit more commitment or technical comfort, but are worth the effort.
@@ -129,22 +146,6 @@ Try one of the following:
   - [Firefox Password Manager](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import)
   - [Google (Chrome) Password Manager](https://passwords.google/)
   - [Safari](https://support.apple.com/en-us/105115)
-
-#### [Multi-factor authentication](https://brainstation.io/cybersecurity/two-factor-auth)
-
-- [ ] **Enable multi-factor authentication (MFA) on all of your [important accounts](#important-accounts).**
-
-Also known as two-factor authentication, or 2FA. All major services offer MFA — see [this list](https://2fa.directory/).
-
-When enabling MFA, using one or more of the following is recommended:
-
-- An app to generate codes that synchronizes:
-  - [1Password](https://support.1password.com/one-time-passwords/)
-  - [Authy](https://www.authy.com/)
-  - [Google Authenticator](https://support.google.com/accounts/answer/1066447)
-- The service's app, when it supports push notification for MFA. For example:
-  - [Apple ID](https://support.apple.com/en-us/102660)
-- Text messages (SMS)
 
 ### Devices
 
