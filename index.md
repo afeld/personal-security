@@ -178,6 +178,7 @@ Do these for all of your computers, phones, tablets, etc.
 
 - [ ] **Make sure there is a password on your wifi network.** If you like having an open network, you can buy a router with a built-in public hotspot.
 - [ ] **Set up [DNS over HTTPS](https://www.cloudflare.com/learning/dns/dns-over-tls/).**
+  - This can cause issues when you're on some networks, like in a [corporate office](https://superuser.com/questions/721725/why-cant-i-use-custom-dns-server-addresses-in-a-network) or on [airplane WiFi](https://nullthoughts.com/tech/2019/08/09/inflight-wifi-not-working-due-to-custom-dns-servers/). You may need to disable now and then.
 - [ ] [**Check for upgrades to your router firmware.**](https://www.wikihow.com/Update-Router-Firmware)
 
 ---
