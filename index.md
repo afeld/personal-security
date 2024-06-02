@@ -127,6 +127,17 @@ Examples of sensitive information:
 
 **Don't share sensitive information in SMS or (unencrypted) email directly.** See more info for [Gmail](https://support.google.com/mail/answer/6330403) and [Outlook](https://support.microsoft.com/en-us/office/encrypt-email-messages-373339cb-bf1a-4509-b296-802a39d801dc). An easy alternative is putting the information in a file/document in Google Drive / Dropbox / etc. and sharing that.
 
+#### Leaks
+
+Your personal/contact information, passwords, etc. may have become available to people that shouldn't have it.
+
+- [ ] **Sign up for data breach alerts** through one of the following services:
+  - 1Password [password manager](#password-manager)'s [Watchtower](https://watchtower.1password.com/)
+  - [Have I Been Pwned](https://haveibeenpwned.com/) notifications
+    - Can do a one-time check without signing up
+  - [Mozilla Monitor](https://monitor.mozilla.org/)
+    - Also removes your personal information from data brokers
+
 ### Passwords
 
 - [ ] **Use different ([strong](#passwords)) passwords for every service.**
@@ -190,9 +201,15 @@ In short, security is like having bars on your windows: hackers can't get in, bu
 
 ## Glossary
 
+- **Data breach**: TODO
+- **Data broker**: TODO
+- **Hack**: TODO
 - **Multi-factor authentication (MFA)**: A service requiring more than just a password to log in.
 - **Passphrase**: Synonym for `password`.
+- **Personal health information (PHI)**: TODO
+- **Personally identifiable information (PII)**: TODO
 - **Privacy**: TODO
+- [**Pwned**](https://cyberinsight.co/what-does-pwn-stand-for/)
 - **Security**: TODO
 - **SMS**: Short Message Service, also known as "text messages".
 - **Two-factor authentication (2FA):** See `multi-factor authentication`.
