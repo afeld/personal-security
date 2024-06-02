@@ -132,7 +132,7 @@ Examples of sensitive information:
 Your personal/contact information, passwords, etc. may have become available to people that shouldn't have it.
 
 - [ ] **Sign up for data breach alerts** through one of the following services:
-  - 1Password [password manager](#password-manager)'s [Watchtower](https://watchtower.1password.com/)
+  - [1Password Watchtower](https://watchtower.1password.com/)
   - [Have I Been Pwned](https://haveibeenpwned.com/) notifications
     - Can do a one-time check without signing up
   - [Mozilla Monitor](https://monitor.mozilla.org/)
