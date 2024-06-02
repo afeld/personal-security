@@ -108,6 +108,7 @@ For more information, see the [Freedom of the Press Foundation's Secure Communic
 - **Meta (Facebook, Instagram, etc.):** Go through their:
   - [ ] [**Privacy Checkup**](https://www.facebook.com/privacy/checkup/)
   - [ ] [**Ad preferences**](https://accountscenter.facebook.com/ads)
+- [ ] **Try [Privacy Party](https://www.blockpartyapp.com/privacy-party/).**
 
 ### Sensitive information
 
