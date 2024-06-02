@@ -176,7 +176,8 @@ Do these for all of your computers, phones, tablets, etc.
     - [Android](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/)
     - iOS: just set a password
 - [ ] [**iOS/Mac: Review your personalized ads setting.**](https://support.apple.com/en-us/105131)
-- [ ] [**iOS: Review app tracking permissions.**](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios)
+- [ ] [**iOS: Go through the built-in privacy and security protections page.**](https://support.apple.com/guide/iphone/use-built-in-privacy-and-security-protections-iph6e7d349d1/ios)
+  - [ ] [**iOS: Review app tracking permissions.**](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios)
 
 ### Payments
 
