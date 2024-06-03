@@ -127,6 +127,13 @@ Examples of sensitive information:
 
 **Don't share sensitive information in SMS or (unencrypted) email directly.** See more info for [Gmail](https://support.google.com/mail/answer/6330403) and [Outlook](https://support.microsoft.com/en-us/office/encrypt-email-messages-373339cb-bf1a-4509-b296-802a39d801dc). An easy alternative is putting the information in a file/document in Google Drive / Dropbox / etc. and sharing that.
 
+### Personal information
+
+[Your personal information is constantly being sold by data brokers.](https://privacy.com/blog/what-are-data-brokers)
+
+- [ ] **Sign up for [Mozilla Monitor](https://monitor.mozilla.org/)** to get your information automatically removed from people-search sites.
+  - There are [alternatives](https://www.pcmag.com/picks/the-best-personal-data-removal-services)
+
 #### Leaks
 
 Your personal/contact information, passwords, etc. may have become available to people that shouldn't have it.
@@ -136,7 +143,6 @@ Your personal/contact information, passwords, etc. may have become available to 
   - [Have I Been Pwned](https://haveibeenpwned.com/) notifications
     - Can do a one-time check without signing up
   - [Mozilla Monitor](https://monitor.mozilla.org/)
-    - Also removes your personal information from data brokers
 
 ### Passwords
 
