@@ -121,7 +121,7 @@ Examples of sensitive information:
 
 #### Who to share it with
 
-**If someone contacts you via phone or email and asks for sensitive information, don't give it to them.** This often comes up as fake customer support or debt collectors. If this happens and you think it _might_ be legitimate, follow up via official channels (the number on the back of your credit card, etc.)
+**If someone contacts you via phone or email and asks for sensitive information, don't give it to them.** This often comes up as fake customer support or debt collectors. If this happens and you think it _might_ be legitimate, follow up via official channels (the customer service number on the back of your credit card, etc.)
 
 #### How to send
 
@@ -186,6 +186,10 @@ Do these for all of your computers, phones, tablets, etc.
 - **Make online payments through PayPal or another trusted service** instead of entering your payment information into a third-party site directly.
 - **Don't let vendors store your credit card details.**
   - Many will have an option like "save for later" — don't check that box.
+
+### Credit
+
+- [ ] **[Freeze your credit.](https://www.forbes.com/advisor/credit-score/pros-and-cons-of-freezing-credit/)**
 
 ### Networking
 
