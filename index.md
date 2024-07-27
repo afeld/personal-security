@@ -250,3 +250,4 @@ this guide will not be enough. You should follow this guide, but also consult a 
 - [Freedom of the Press Foundation's Online Account Security guide](https://freedom.press/training/online-account-security/)
 - [Brian Lovin's Security Checklist](https://brianlovin.com/security)
 - [Smart Girl's Guide to Privacy](https://nostarch.com/smartgirlsguide) (book)
+- [New York Times's How to Dox Yourself on the Internet](https://open.nytimes.com/how-to-dox-yourself-on-the-internet-d2892b4c5954)
