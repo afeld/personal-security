@@ -60,6 +60,7 @@ Some services have a built-in Security Checkup tools, walking you through variou
 
 - [ ] [**Google**](https://myaccount.google.com/intro/security-checkup)
   - [ ] [**Review My Google Activity.**](https://myactivity.google.com/) Are you ok with Google knowing all of that about you?
+  - [ ] [**Remove the Results About You**](https://myactivity.google.com/results-about-you)
 - [ ] [**Meta (Facebook, Instagram, etc.)**](https://accountscenter.facebook.com/password_and_security)
 
 ### Passwords
