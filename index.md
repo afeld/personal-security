@@ -131,8 +131,7 @@ Examples of sensitive information:
 
 [Your personal information is constantly being sold by data brokers.](https://privacy.com/blog/what-are-data-brokers)
 
-- [ ] **Sign up for [Mozilla Monitor](https://monitor.mozilla.org/)** to get your information automatically removed from people-search sites.
-  - There are [alternatives](https://www.pcmag.com/picks/the-best-personal-data-removal-services)
+- [ ] **Sign up for [a data removal service](https://restoreprivacy.com/data-removal/best-data-removal-services/)** to get your information automatically removed from people-search sites.
 
 #### Leaks
 
