@@ -94,12 +94,10 @@ These tips require a bit more commitment or technical comfort, but are worth the
 
 ### Messaging
 
-- [ ] **Use a messaging app with end-to-end encryption** (E2EE). Note that these do require the recipient to be using the same app.
-  - [Android RCS chats](https://support.google.com/messages/answer/7189714)
-  - [Apple iMessage](https://support.apple.com/guide/security/imessage-security-overview-secd9764312f/web) (versus normal SMS)
-  - [Signal](https://signal.org/) — see whole page on [Why Signal](why-signal)
-  - [WhatsApp](https://www.whatsapp.com/)
-  - [More options](https://www.tomsguide.com/reference/best-encrypted-messaging-apps)
+- [ ] **iPhone: Enable RCS on your Apple devices.**
+  - [ ] [iOS](https://support.apple.com/en-us/104972)
+  - [ ] [Mac](https://support.apple.com/guide/messages/get-sms-mms-and-rcs-texts-from-iphone-icht8a28bb9a/mac)
+- [ ] **Use a [messaging app with end-to-end encryption](why-signal#comparison-of-messaging-options)** (E2EE).
 
 For more information, see the [Freedom of the Press Foundation's Secure Communication guide](https://freedom.press/training/secure-communication/).
 
