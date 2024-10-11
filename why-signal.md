@@ -6,7 +6,7 @@ logo: <img width="125" height="125" src="https://upload.wikimedia.org/wikipedia/
 
 # You Should Switch to Signal. Here's Why.
 
-<div class="alert alert-warning" role="alert">With <a href="https://www.cnet.com/tech/services-and-software/ios-18-everything-you-should-know-about-rcs-messaging-on-your-iphone/">iOS 18 releasing RCS support</a>, <strong>the default messaging apps on both iPhone, Mac, and Android now support high-quality encrypted messaging out of the box</strong>. This, admittedly, means that Signal has <a href="#comparison-of-messaging-options">less benefit</a>. This is actually a good thing, and arguably the best outcome the <a href="https://signalfoundation.org/">Signal Technology Foundation</a> could have hoped for: the masses using encrypted messaging without having to even think about it. The Signal team deserves credit for spearheading that change to the market.</div>
+<div class="alert alert-warning" role="alert">With <a href="https://www.cnet.com/tech/services-and-software/ios-18-everything-you-should-know-about-rcs-messaging-on-your-iphone/">iOS 18 releasing RCS support</a>, <strong>the default messaging apps on both iPhone, Mac, and Android now support high-quality encrypted messaging out of the box</strong>. This, admittedly, means that Signal has less <a href="#comparison-of-messaging-options">benefit</a> than it used to. This is actually a good thing, and arguably the best outcome the <a href="https://signalfoundation.org/">Signal Technology Foundation</a> could have hoped for: the masses using encrypted messaging without having to even think about it. The Signal team deserves credit for spearheading that change to the market.</div>
 
 ## Introduction
 
