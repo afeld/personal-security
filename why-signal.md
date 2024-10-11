@@ -9,6 +9,8 @@ description: Signal is better than both SMS and other messaging apps for both pr
 
 # You Should Switch to Signal. Here's Why.
 
+<div class="alert alert-warning" role="alert">With <a href="https://www.cnet.com/tech/services-and-software/ios-18-everything-you-should-know-about-rcs-messaging-on-your-iphone/">iOS 18 releasing RCS support</a>, <strong>the default messaging apps on both iPhone, Mac, and Android now support high-quality encrypted messaging out of the box</strong>. This, admittedly, means that Signal has less benefit. This is actually a good thing, and arguably the best outcome the <a href="https://signalfoundation.org/">Signal Technology Foundation</a> could have hoped for: the masses using encrypted messaging without having to even think about it. The Signal team deserves credit for spearheading that change to the market.</div>
+
 [Over 85% adults in the U.S. own a smartphone](https://www.statista.com/statistics/219865/percentage-of-us-adults-who-own-a-smartphone/), and most of them do some kind of text-based messaging. Standard text messaging (SMS) is popular because it works on almost all phones, but [other messaging apps like Facebook Messenger and WhatsApp have huge popularity](https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/), too. Unfortunately, these all have major privacy tradeoffs.
 
 There is a better alternative: [Signal](https://signal.org). While this secure messaging application for iPhone, Android, and desktop was previously only popular with journalists and nerds, it's gaining wider adoption. This is a good thing, and you should be using it, too. Why? **It's encrypted, it's open source, and others can't access your data.** We'll get into why each of those is important, but first, let's look at what different messaging options can and can't do.
@@ -18,6 +20,8 @@ There is a better alternative: [Signal](https://signal.org). While this secure m
 Unfortunately, there is no compatibility between the different apps, so everyone you're talking to needs to be using the same thing for messaging: SMS can only talk to SMS, WhatsApp to WhatsApp, etc. Signal has a number of similarities with SMS and other messaging apps, plus some notable benefits.
 
 {% include messaging-comparison.html %}
+
+See also: [Apple's comparison of messaging types](https://support.apple.com/en-us/104972).
 
 ## Encryption
 
@@ -33,7 +37,7 @@ Last Week Tonight did a segment that drives that point home:
 
 <iframe class="youtube-embed" src="https://www.youtube-nocookie.com/embed/XEVlyP4_11M?start=1494" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**If you don't use encrypted messaging, you should assume that both the company and the government can see everything you send.** Even though [WhatsApp uses the same encryption Signal uses](https://www.whatsapp.com/security/), it still controls the app at either end and [shares data with Facebook](https://www.howtogeek.com/722911/is-whatsapp-end-to-end-encrypted-and-does-that-matter-for-privacy/).
+**If you don't use encrypted messaging, you should assume that both the company and the government can see everything you send.** Even though [WhatsApp uses the same encryption Signal uses](https://en.wikipedia.org/wiki/Signal_Protocol), it still controls the app at either end and [shares data with Facebook](https://www.howtogeek.com/722911/is-whatsapp-end-to-end-encrypted-and-does-that-matter-for-privacy/).
 
 This is obviously an even bigger deal for people like activists and victims of abuse. "Normal people" using Signal normalizes its use, which means people with even stronger needs for privacy can use it without that being a red flag.
 
