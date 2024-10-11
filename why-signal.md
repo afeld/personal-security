@@ -1,11 +1,8 @@
 ---
 title: Why Signal
 description: Signal is better than both SMS and other messaging apps for both privacy and security. Find out why.
+logo: <img width="125" height="125" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg" alt="Signal logo">
 ---
-
-<a href="https://signal.org">
-  <img width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg" alt="Signal logo">
-</a>
 
 # You Should Switch to Signal. Here's Why.
 

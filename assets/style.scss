@@ -29,7 +29,7 @@ footer {
 }
 
 nav[data-toggle="toc"] {
-  top: $top-margin;
+  padding-top: $top-margin;
 }
 
 .task-list-item:has(> .task-list-item-checkbox) {

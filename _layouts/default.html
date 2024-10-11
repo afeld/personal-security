@@ -37,7 +37,10 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-3">
-          <nav id="toc" data-toggle="toc" class="sticky-md-top"></nav>
+          <div class="sticky-md-top">
+            <div class="logo">{{ page.logo }}</div>
+            <nav id="toc" data-toggle="toc"></nav>
+          </div>
         </div>
         <div class="col-sm-9 content">{{ content }}</div>
       </div>
