@@ -47,9 +47,17 @@ input[type="checkbox"].task-list-item-checkbox {
   }
 }
 
-.text-bg-success a {
-  color: white;
-}
+.table {
+  .yes {
+    background-color: var(--bs-success-bg-subtle);
+  }
+  .yes-but {
+    background-color: var(--bs-warning-bg-subtle);
+  }
+  .no {
+    background-color: var(--bs-danger-bg-subtle);
+  }
+}  
 
 // based on
 // https://www.sitepoint.com/accessible-footnotes-css/

@@ -68,9 +68,9 @@
       $(".content table").addClass("table");
 
       // give contextual colors automatically
-      $(".table td:contains('Yes'):not(:contains('*'))").addClass("text-bg-success");
-      $(".table td:contains('Yes*')").addClass("text-bg-warning");
-      $(".table td:contains('No')").addClass("text-bg-danger");
+      $(".table td:contains('Yes'):not(:has(.footnote-ref))").addClass("yes");
+      $(".table td:contains('Yes'):has(.footnote-ref)").addClass("yes-but");
+      $(".table td:contains('No')").addClass("no");
     </script>
   </body>
 </html>
