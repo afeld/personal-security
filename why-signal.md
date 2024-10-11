@@ -4,6 +4,8 @@ description: Signal is better than both SMS and other messaging apps for both pr
 logo: <img width="125" height="125" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg" alt="Signal logo">
 ---
 
+[← Back to home](..)
+
 # You Should Switch to Signal. Here's Why.
 
 <div class="alert alert-warning" role="alert">With <a href="https://www.cnet.com/tech/services-and-software/ios-18-everything-you-should-know-about-rcs-messaging-on-your-iphone/">iOS 18 releasing RCS support</a>, <strong>the default messaging apps on both iPhone, Mac, and Android now support high-quality encrypted messaging out of the box</strong>. This, admittedly, means that Signal has less <a href="#comparison-of-messaging-options">benefit</a> than it used to. This is actually a good thing, and arguably the best outcome the <a href="https://signalfoundation.org/">Signal Technology Foundation</a> could have hoped for: the masses using encrypted messaging without having to even think about it. The Signal team deserves credit for spearheading that change to the market.</div>
@@ -60,4 +62,4 @@ I have no official connection to Signal, and have nothing to gain from you switc
 
 Thanks for reading!
 
-[_Back to homepage_](..)
+[← Back to home](..)
