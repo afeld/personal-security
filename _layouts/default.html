@@ -68,10 +68,8 @@
       $(".content table").addClass("table");
 
       // give contextual colors automatically
-      $(".table td:contains('Yes'):not(:has(.footnote-ref))").addClass("yes");
-      $(".table td:contains('Yes'):has(.footnote-ref)").addClass("caveat");
-      $(".table td:contains('No'):has(.footnote-ref)").addClass("caveat");
-      $(".table td:contains('No'):not(:has(.footnote-ref))").addClass("no");
+      $(".table td:contains('Yes')").addClass("yes");
+      $(".table td:contains('No')").addClass("no");
     </script>
   </body>
 </html>

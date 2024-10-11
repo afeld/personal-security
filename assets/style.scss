@@ -1,7 +1,9 @@
 ---
 ---
 
-$top-margin: 40px;
+:root {
+  --top-margin: 40px;
+}
 
 body {
   // bump the base font size
@@ -19,7 +21,7 @@ body {
 }
 
 h1 {
-  margin-top: $top-margin;
+  margin-top: var(--top-margin);
   margin-bottom: 40px;
 }
 
@@ -28,7 +30,7 @@ footer {
 }
 
 nav[data-toggle="toc"] {
-  padding-top: $top-margin;
+  padding-top: var(--top-margin);
 }
 
 .task-list-item:has(> .task-list-item-checkbox) {
@@ -48,16 +50,19 @@ input[type="checkbox"].task-list-item-checkbox {
 }
 
 .table {
-  .yes {
-    background-color: var(--bs-success-bg-subtle);
-  }
-  .caveat {
+  // contextual colors
+  :has(.footnote-ref) {
     background-color: var(--bs-warning-bg-subtle);
   }
-  .no {
-    background-color: var(--bs-danger-bg-subtle);
+  :not(:has(.footnote-ref)) {
+    &.yes {
+      background-color: var(--bs-success-bg-subtle);
+    }
+    &.no {
+      background-color: var(--bs-danger-bg-subtle);
+    }
   }
-}  
+}
 
 // based on
 // https://www.sitepoint.com/accessible-footnotes-css/
