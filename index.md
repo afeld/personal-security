@@ -79,10 +79,11 @@ Some services have a built-in Security Checkup tools, walking you through variou
 
 - [ ] **Enable multi-factor authentication (MFA) on all of your [important accounts](#important-accounts).**
 
-Also known as two-factor authentication, or 2FA. All major services offer MFA — see [this list](https://2fa.directory/).
+Also known as two-factor authentication (2FA). [All major services offer MFA.](https://2fa.directory/)
 
 When enabling MFA, using one or more of the following is recommended:
 
+- Biometrics ([Apple Face ID](https://support.apple.com/en-us/108411), fingerprint, etc.)
 - An app to generate codes that synchronizes:
   - [1Password](https://support.1password.com/one-time-passwords/) - paid, but is a full-fledged [password manager](#password-manager)
   - [Authy](https://www.authy.com/) - free
