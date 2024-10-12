@@ -50,6 +50,12 @@ input[type="checkbox"].task-list-item-checkbox {
 }
 
 .table {
+  // make first column sticky
+  th:first-child {
+    position: sticky;
+    left: 0;
+  }
+
   // contextual colors
   :has(.footnote-ref) {
     background-color: var(--bs-warning-bg-subtle);
