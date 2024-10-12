@@ -4,7 +4,7 @@ description: Signal is better than both SMS and other messaging apps for both pr
 logo: <img width="125" height="125" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg" alt="Signal logo">
 ---
 
-[← Back to home](..)
+<a href=".." class="back">← Back to home</a>
 
 # You Should Switch to Signal. Here's Why.
 
@@ -62,4 +62,4 @@ I have no official connection to Signal, and have nothing to gain from you switc
 
 Thanks for reading!
 
-[← Back to home](..)
+<a href=".." class="back">← Back to home</a>

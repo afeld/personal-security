@@ -33,6 +33,13 @@ nav[data-toggle="toc"] {
   padding-top: var(--top-margin);
 }
 
+// match table of contents
+.back {
+  font-size: 13px;
+  font-weight: 500;
+  color: #767676;
+}
+
 .task-list-item:has(> .task-list-item-checkbox) {
   // have the checkbox appear in place of the bullet point
   display: block;
