@@ -1,19 +1,20 @@
+---
+---
+
 :root {
   --top-margin: 40px;
 }
 
 body {
-  /*
-  bump the base font size
-  https: //getbootstrap.com/docs/3.4/css/#type-body-copy
-  */
+  // bump the base font size
+  // https: //getbootstrap.com/docs/3.4/css/#type-body-copy
   font-size: 16px;
 }
 
 .container {
   margin-top: 3em;
 
-  /* corresponds to Bootstrap breakpoint */
+  // corresponds to Bootstrap breakpoint
   @media (max-width: 768px) {
     margin-top: 0;
   }
@@ -33,14 +34,14 @@ nav[data-toggle="toc"] {
 }
 
 .task-list-item:has(> .task-list-item-checkbox) {
-  /* have the checkbox appear in place of the bullet point */
+  // have the checkbox appear in place of the bullet point
   display: block;
   margin-left: -1.2em;
 }
 
 input[type="checkbox"].task-list-item-checkbox {
   margin-right: 1rem;
-  /* https://stackoverflow.com/a/24688640/358804 */
+  // https://stackoverflow.com/a/24688640/358804
   transform: scale(1.5);
 
   &[disabled] {
@@ -49,7 +50,7 @@ input[type="checkbox"].task-list-item-checkbox {
 }
 
 .table {
-  /* contextual colors */
+  // contextual colors
   :has(.footnote-ref) {
     background-color: var(--bs-warning-bg-subtle);
   }
@@ -63,10 +64,8 @@ input[type="checkbox"].task-list-item-checkbox {
   }
 }
 
-/*
-based on
-https://www.sitepoint.com/accessible-footnotes-css/
-*/
+// based on
+// https://www.sitepoint.com/accessible-footnotes-css/
 .footnote-ref {
   font-size: 0.8em;
   margin-left: 2px;
