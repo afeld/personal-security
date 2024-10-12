@@ -43,6 +43,12 @@ Do these for all of your computers, phones, tablets, etc.
   - [Android](https://support.google.com/android/answer/13627979)
   - [iOS](https://www.theverge.com/23270473/iphone-ios-unused-app-clean-up-offload-how-to)
 
+### Messaging
+
+- [ ] **iPhone: Enable RCS** on the devices you use the Messages app from.
+  - [ ] [iOS](https://support.apple.com/en-us/104972)
+  - [ ] [Mac](https://support.apple.com/guide/messages/get-sms-mms-and-rcs-texts-from-iphone-icht8a28bb9a/mac)
+
 ### Important accounts
 
 Prioritize securing services that you frequently use for communication, or that have sensitive information like your contacts, financial, payment, or health information. In other words, which accounts do you have that, if hacked, would be a Big Deal? Examples of services that might be at the top of that list:
@@ -94,9 +100,6 @@ These tips require a bit more commitment or technical comfort, but are worth the
 
 ### Messaging
 
-- [ ] **iPhone: Enable RCS on your Apple devices.**
-  - [ ] [iOS](https://support.apple.com/en-us/104972)
-  - [ ] [Mac](https://support.apple.com/guide/messages/get-sms-mms-and-rcs-texts-from-iphone-icht8a28bb9a/mac)
 - [ ] **Use a [messaging app with end-to-end encryption](why-signal#comparison-of-messaging-options)** (E2EE).
 
 For more information, see the [Freedom of the Press Foundation's Secure Communication guide](https://freedom.press/training/secure-communication/).
