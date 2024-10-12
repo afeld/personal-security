@@ -50,6 +50,9 @@ input[type="checkbox"].task-list-item-checkbox {
 }
 
 .table {
+  // doesn't seem it's possible to make header sticky with horizontal scroll…?
+  // https://github.com/w3c/csswg-drafts/issues/865
+
   // make first column sticky
   th:first-child {
     position: sticky;
