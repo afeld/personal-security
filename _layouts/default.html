@@ -16,8 +16,8 @@
     />
     <link rel="stylesheet" href="/assets/style.css" />
     <script
-      src="https://code.jquery.com/jquery-3.6.0.min.js"
-      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      src="https://code.jquery.com/jquery-3.7.1.slim.min.js"
+      integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
       crossorigin="anonymous"
     ></script>
     <script
@@ -27,8 +27,10 @@
     ></script>
     <script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.js"></script>
     <script
-      src="https://cdn.rawgit.com/bryanbraun/anchorjs/3.2.2/anchor.min.js"
-      charset="utf-8"
+      src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/5.0.0/anchor.min.js"
+      integrity="sha512-byAcNWVEzFfu+tZItctr+WIMUJvpzT2kokkqcBq+VsrM3OrC5Aj9E2gh+hHpU0XNA3wDmX4sDbV5/nkhvTrj4w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
     ></script>
     <script src="/assets/checklist.js"></script>
     {% seo %}
@@ -60,12 +62,6 @@
     </footer>
     <script type="text/javascript">
       anchors.add("h2,h3,h4");
-
-      // apply Bootstrap table classes
-      // https://getbootstrap.com/docs/3.4/css/#tables
-
-      // Prettier forces a newline between tables and Kramdown's block inline attribute lists, so add the class here
-      $(".content table").addClass("table");
 
       // give contextual colors automatically
       $(".table td:contains('Yes')").addClass("yes");
