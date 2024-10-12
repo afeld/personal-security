@@ -41,7 +41,8 @@ nav[data-toggle="toc"] {
 }
 
 .task-list-item {
-  line-height: 1.7rem;
+  line-height: 1.5rem;
+  margin-top: 0.5rem;
 
   &:has(> .task-list-item-checkbox) {
     // have the checkbox appear in place of the bullet point
