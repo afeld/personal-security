@@ -107,12 +107,7 @@
       <tr>
         <th scope="row"><a href="#encryption">Encrypted</a></th>
         <td>No</td>
-        <td>
-          <a
-            href="https://en.wikipedia.org/wiki/Rich_Communication_Services#Encryption_support"
-            >Yes</a
-          >
-        </td>
+        {% include td-footnote.html text="Yes" ref="rcs-encryption" num="4" %}
         <td>
           <a
             href="https://support.apple.com/guide/security/imessage-security-overview-secd9764312f/web"
@@ -146,7 +141,7 @@
         <td>
           <a href="https://www.facebook.com/help/154917244574299/">Yes</a>
         </td>
-        {% include td-footnote.html text="No" ref="whatsapp-no-phone" num="4" %}
+        {% include td-footnote.html text="No" ref="whatsapp-no-phone" num="5" %}
         <td>
           <a href="https://signal.org/blog/phone-number-privacy-usernames/"
             >Yes</a
@@ -155,8 +150,8 @@
       </tr>
       <tr>
         <th scope="row"><a href="#open-source">Open source</a></th>
-        {% include td-footnote.html text="No" ref="specs" num="5" %} {% include
-        td-footnote.html text="No" ref="specs" num="5" %}
+        {% include td-footnote.html text="No" ref="specs" num="6" %} {% include
+        td-footnote.html text="No" ref="specs" num="6" %}
         <td>No</td>
         <td>No</td>
         <td>No</td>
@@ -167,7 +162,12 @@
 </div>
 <ol class="footnotes">
   <li id="sms-iphone-android">
-    RCS isn't supported by all devices and carriers (yet?).
+    RCS isn't supported by all devices and
+    <a
+      href="https://en.wikipedia.org/wiki/Rich_Communication_Services#Commercial_deployments"
+      >carriers</a
+    >
+    (yet?).
   </li>
   <li id="sms-iphone-android">
     There are sometimes
@@ -181,6 +181,18 @@
     <a href="https://support.apple.com/en-us/104970"
       >Limited reaction options.</a
     >
+  </li>
+  <li id="rcs-encryption">
+    At time of writing (12/1/24), <a href="https://support.google.com/messages/answer/9487020?hl=en#zippy=%2Crcs-chats-with-iphone-users-dont-have-end-to-end-encryption">RCS messages are only encrypted in some scenarios</a>:
+    <ul>
+      <li>One-on-one messages, using Google Messenger and/or iMessage: Yes</li>
+      <li>Group messages, everyone using Google Messenger: Yes</li>
+      <li>Group messages, mix of Google Messenger and iMessage: No</li>
+      <li>Group messages, only iMessage: Yes, though doesn't use RCS</li>
+    </ul>
+     <a
+      href="https://en.wikipedia.org/wiki/Rich_Communication_Services#Encryption_support"
+    ></a>
   </li>
   <li id="whatsapp-no-phone">
     WhatsApp requires a phone number, but there's
