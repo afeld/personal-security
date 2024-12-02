@@ -183,16 +183,36 @@
     >
   </li>
   <li id="rcs-encryption">
-    At time of writing (12/1/24), <a href="https://support.google.com/messages/answer/9487020?hl=en#zippy=%2Crcs-chats-with-iphone-users-dont-have-end-to-end-encryption">RCS messages are only encrypted in some scenarios</a>:
-    <ul>
-      <li>One-on-one messages, using Google Messenger and/or iMessage: Yes</li>
-      <li>Group messages, everyone using Google Messenger: Yes</li>
-      <li>Group messages, mix of Google Messenger and iMessage: No</li>
-      <li>Group messages, only iMessage: Yes, though doesn't use RCS</li>
-    </ul>
-     <a
+    At time of writing (12/1/24),
+    <a
+      href="https://support.google.com/messages/answer/9487020?hl=en#zippy=%2Crcs-chats-with-iphone-users-dont-have-end-to-end-encryption"
+      >RCS messages are encrypted in some (but not all) scenarios</a
+    >.
+    <a
       href="https://en.wikipedia.org/wiki/Rich_Communication_Services#Encryption_support"
-    ></a>
+      >Technical details.</a
+    >
+    <table class="table" style="max-width: 25rem">
+      <thead>
+        <tr>
+          <th>Scenario</th>
+          <th>Google Messenger only</th>
+          <th>Google Messenger + iMessage</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>One-to-one</th>
+          <td>Yes</td>
+          <td>Yes</td>
+        </tr>
+        <tr>
+          <th>Group</th>
+          <td>Yes</td>
+          <td>No</td>
+        </tr>
+      </tbody>
+    </table>
   </li>
   <li id="whatsapp-no-phone">
     WhatsApp requires a phone number, but there's
