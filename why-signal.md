@@ -8,14 +8,14 @@ logo: <img width="125" height="125" src="https://upload.wikimedia.org/wikipedia/
 
 # You Should Switch to Signal. Here's Why.
 
-With [iOS 18 releasing RCS support](https://www.cnet.com/tech/services-and-software/ios-18-everything-you-should-know-about-rcs-messaging-on-your-iphone/), **the default messaging apps on both iPhone, Mac, and Android now support high-quality encrypted messaging out of the box**, at least in [some scenarios](#rcs-encryption). This, admittedly, means that Signal has less [benefit](#comparison-of-messaging-options) than it used to. This is actually a good thing, and arguably the best outcome the [Signal Technology Foundation](https://signalfoundation.org/) could have hoped for: the masses using encrypted messaging without having to even think about it. The Signal team deserves credit for spearheading that change to the market.
-{: .alert.alert-warning role="alert"}
-
 ## Introduction
 
 [Over 85% adults in the U.S. own a smartphone](https://www.statista.com/statistics/219865/percentage-of-us-adults-who-own-a-smartphone/), and most of them do some kind of text-based messaging. Standard text messaging (SMS) is popular because it works on almost all phones, but [other messaging apps like Facebook Messenger and WhatsApp have huge popularity](https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/), too. Unfortunately, these all have major privacy tradeoffs.
 
-There is a better alternative: [Signal](https://signal.org). While this secure messaging application for iPhone, Android, and desktop was previously only popular with journalists and nerds, it's gaining wider adoption. This is a good thing, and you should be using it, too. Why? **It's encrypted, it's open source, and others can't access your data.** We'll get into why each of those is important, but first, let's look at what different messaging options can and can't do.
+There is a better alternative: [Signal](https://signal.org). While this secure messaging application for iPhone, Android, and desktop was previously only popular with journalists and nerds, it's gaining wider adoption. This is a good thing, and you should be using it, too. Why? **It's [encrypted](#encryption), it's [open source](#open-source), and [others can't access your data](#access-to-data).** We'll get into why each of those is important, but first, we'll look at what different messaging options can and can't do.
+
+With [iOS 18 releasing RCS support](https://www.cnet.com/tech/services-and-software/ios-18-everything-you-should-know-about-rcs-messaging-on-your-iphone/), **the default messaging apps on both iPhone, Mac, and Android now support high-quality encrypted messaging out of the box**, at least in [some scenarios](#rcs-encryption). This, admittedly, means that Signal has less [benefit](#comparison-of-messaging-options) than it used to. This is actually a good thing, and arguably the best outcome the [Signal Technology Foundation](https://signalfoundation.org/) could have hoped for: the masses using encrypted messaging without having to even think about it. The Signal team deserves credit for spearheading that change to the market.
+{: .alert.alert-warning role="alert"}
 
 ## Comparison of messaging options
 
