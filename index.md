@@ -243,14 +243,14 @@ This guide makes no guarantees that, even with following all steps of this guide
 ## See also
 
 - [A workshop version of this page as slides](https://docs.google.com/presentation/d/1JOz8X0cOL4Osn1nnFVRVmHfCRjg8hX6YtAw6oMFbtDo/edit)
-- [Electronic Frontier Foundation (EFF)'s Surevillance Self-Defense Guide](https://ssd.eff.org/)
-- [Wirecutter's Every Step to Simple Online Security](https://www.nytimes.com/wirecutter/guides/simple-online-security/)
-- [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450)
   - The inspiration for this guide
+- [Brian Lovin's Security Checklist](https://brianlovin.com/security)
+- [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450)
+- [Electronic Frontier Foundation (EFF)'s Surevillance Self-Defense Guide](https://ssd.eff.org/)
+- [Freedom of the Press Foundation's Online Account Security guide](https://freedom.press/training/online-account-security/)
+- [Mozilla's Privacy Not Included buying guide](https://foundation.mozilla.org/en/privacynotincluded/)
+- [New York Times's How to Dox Yourself on the Internet](https://open.nytimes.com/how-to-dox-yourself-on-the-internet-d2892b4c5954)
+- [Smart Girl's Guide to Privacy](https://nostarch.com/smartgirlsguide) (book)
 - [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.html)
 - [Windows Security From The Ground Up](https://decentsecurity.com/#/securing-your-computer/)
-- [Mozilla's Privacy Not Included buying guide](https://foundation.mozilla.org/en/privacynotincluded/)
-- [Freedom of the Press Foundation's Online Account Security guide](https://freedom.press/training/online-account-security/)
-- [Brian Lovin's Security Checklist](https://brianlovin.com/security)
-- [Smart Girl's Guide to Privacy](https://nostarch.com/smartgirlsguide) (book)
-- [New York Times's How to Dox Yourself on the Internet](https://open.nytimes.com/how-to-dox-yourself-on-the-internet-d2892b4c5954)
+- [Wirecutter's Every Step to Simple Online Security](https://www.nytimes.com/wirecutter/guides/simple-online-security/)
