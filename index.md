@@ -238,7 +238,7 @@ This guide makes no guarantees that, even with following all steps of this guide
 - A politician
 - A system administrator
 
-…then this guide will not be enough. You should consult a security professional for additional actions.
+…then this guide will not be enough. See resource like the [Surveillance Technology Oversight Project (STOP)'s Protest Surveillance toolkit](https://www.stopspying.org/protest). If you're a high-profile target, you should consult a security professional for additional actions.
 
 ## See also
 
