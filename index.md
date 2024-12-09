@@ -251,6 +251,7 @@ This guide makes no guarantees that, even with following all steps of this guide
 - [Mozilla's Privacy Not Included buying guide](https://foundation.mozilla.org/en/privacynotincluded/)
 - [New York Times's How to Dox Yourself on the Internet](https://open.nytimes.com/how-to-dox-yourself-on-the-internet-d2892b4c5954)
 - [Smart Girl's Guide to Privacy](https://nostarch.com/smartgirlsguide) (book)
+- [Surveilled documentary](https://www.imdb.com/title/tt33813121/)
 - [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.html)
 - [Windows Security From The Ground Up](https://decentsecurity.com/#/securing-your-computer/)
 - [Wirecutter's Every Step to Simple Online Security](https://www.nytimes.com/wirecutter/guides/simple-online-security/)
