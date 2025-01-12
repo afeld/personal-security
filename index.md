@@ -13,8 +13,9 @@ _Everyone should do these._ You only need to set them up once, are high value fo
 
 ### Browser(s)
 
+This goes for desktop and mobile.
+
 - [ ] **[Enable HTTPS-only mode](https://www.eff.org/https-everywhere/set-https-default-your-browser)** in all browsers you use regularly
-  - ["Turn on Always use secure connections" in Chrome on Android](https://support.google.com/chrome/answer/10468685?co=GENIE.Platform=Android#zippy=%2Cturn-on-always-use-secure-connections)
 - [ ] **Delete extensions you don't use.**
   - [Chrome](https://support.google.com/chrome_webstore/answer/2664769)
   - [Edge](https://support.microsoft.com/en-us/microsoft-edge/add-turn-off-or-remove-extensions-in-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026)
@@ -42,6 +43,10 @@ Do these for all of your computers, phones, tablets, etc.
 - [ ] **Delete apps you don't use.**
   - [Android](https://support.google.com/android/answer/13627979)
   - [iOS](https://www.theverge.com/23270473/iphone-ios-unused-app-clean-up-offload-how-to)
+- [ ] **Lock your SIM card.** The instructions will be specific to your provider.
+  - [AT&T](https://www.att.com/support/article/wireless/KM1000485/)
+  - [T-Mobile](https://www.t-mobile.com/support/plans-features/help-with-t-mobile-account-fraud#SIM)
+  - [Verizon](https://www.verizon.com/support/knowledge-base-309293/)
 
 ### Messaging
 
