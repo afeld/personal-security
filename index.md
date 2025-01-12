@@ -15,7 +15,9 @@ _Everyone should do these._ You only need to set them up once, are high value fo
 
 This goes for desktop and mobile.
 
-- [ ] **[Enable HTTPS-only mode](https://www.eff.org/https-everywhere/set-https-default-your-browser)** in all browsers you use regularly
+- [ ] **Enable HTTPS-only mode** in all browsers you use regularly.
+  - [Chrome](https://support.google.com/chrome/answer/10468685) - see "Always use secure connections"
+  - [Firefox](https://support.mozilla.org/en-US/kb/https-only-prefs)
 - [ ] **Delete extensions you don't use.**
   - [Chrome](https://support.google.com/chrome_webstore/answer/2664769)
   - [Edge](https://support.microsoft.com/en-us/microsoft-edge/add-turn-off-or-remove-extensions-in-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026)
