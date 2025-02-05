@@ -1,5 +1,6 @@
 ---
 title: Next steps
+description: Digitial security/privacy tips that require a bit more commitment or technical comfort
 ---
 
 # {{ site.title }} - next steps
