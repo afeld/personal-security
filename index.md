@@ -80,7 +80,7 @@ Some services have a built-in Security Checkup tools, walking you through variou
 
 - [ ] **Set [strong passwords](https://support.microsoft.com/en-us/windows/create-and-use-strong-passwords-c5cebb49-8c53-4f5e-2bc4-fe357ca048eb)** on all of your [important accounts](#important-accounts) and [devices](#devices).
   - Otherwise, hackers can get into your account(s) extremely easily. Different services have different requirements around passwords.
-  - This is easier if you [set up a password manager](#password-manager).
+  - This is easier if you [set up a password manager](next-steps/#password-manager).
 
 ### [Multi-factor authentication](https://brainstation.io/cybersecurity/two-factor-auth)
 
@@ -92,7 +92,7 @@ When enabling MFA, using one or more of the following is recommended:
 
 - Biometrics ([Apple Face ID](https://support.apple.com/en-us/108411), fingerprint, etc.)
 - An app to generate codes that synchronizes:
-  - [1Password](https://support.1password.com/one-time-passwords/) - paid, but is a full-fledged [password manager](#password-manager)
+  - [1Password](https://support.1password.com/one-time-passwords/) - paid, but is a full-fledged [password manager](next-steps/#password-manager)
   - [Authy](https://www.authy.com/) - free
   - [Google Authenticator](https://support.google.com/accounts/answer/1066447) - free
 - The service's app, when it supports push notification for MFA. For example:
