@@ -139,6 +139,6 @@ This guide makes no guarantees that, even with following all steps of this guide
 - A politician
 - A system administrator
 
-…then you should do everything in this guide, but it won't be enough. See the [additional resources](next-steps/#resources).
+…then you should do everything in this guide, but it won't be enough. See the [additional resources](next-steps/#see-also).
 
 If you're a high-profile target, consult a security professional for additional actions.

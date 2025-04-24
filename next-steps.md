@@ -116,8 +116,8 @@ Do these for all of your computers, phones, tablets, etc.
 
 ## See also
 
-- [A workshop version of this page as slides](https://docs.google.com/presentation/d/1JOz8X0cOL4Osn1nnFVRVmHfCRjg8hX6YtAw6oMFbtDo/edit)
-  - The inspiration for this guide
+<!-- - [A workshop version of this page as slides](https://docs.google.com/presentation/d/1JOz8X0cOL4Osn1nnFVRVmHfCRjg8hX6YtAw6oMFbtDo/edit) -->
+
 - [Activist Checklist](https://activistchecklist.org/)
 - [Brian Lovin's Security Checklist](https://brianlovin.com/security)
 - [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450)
