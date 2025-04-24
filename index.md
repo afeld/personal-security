@@ -47,6 +47,7 @@ Do these for all of your computers, phones, tablets, etc.
   - [iOS](https://www.theverge.com/23270473/iphone-ios-unused-app-clean-up-offload-how-to)
 - [ ] **Lock your SIM card.** The instructions will be specific to your provider.
   - [AT&T](https://www.att.com/support/article/wireless/KM1000485/)
+  - [Google Fi](https://support.google.com/fi/answer/15147412)
   - [T-Mobile](https://www.t-mobile.com/support/plans-features/help-with-t-mobile-account-fraud#SIM)
   - [Verizon](https://www.verizon.com/support/knowledge-base-309293/)
 
@@ -129,7 +130,7 @@ In short, security is like having bars on your windows: hackers can't get in, bu
 
 ## Disclaimer
 
-This guide makes no guarantees that, even with following all steps of this guide, that your digital security/privacy will not be compromised. If you are a high-value target for hackers, such as:
+This guide makes no guarantees that, even with following all steps of this guide, that your digital security/privacy will not be compromised. If you are a high-value target for hackers, law enforcement, or nation-states, such as:
 
 - An activist
 - A celebrity

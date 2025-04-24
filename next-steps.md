@@ -118,6 +118,7 @@ Do these for all of your computers, phones, tablets, etc.
 
 - [A workshop version of this page as slides](https://docs.google.com/presentation/d/1JOz8X0cOL4Osn1nnFVRVmHfCRjg8hX6YtAw6oMFbtDo/edit)
   - The inspiration for this guide
+- [Activist Checklist](https://activistchecklist.org/)
 - [Brian Lovin's Security Checklist](https://brianlovin.com/security)
 - [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450)
 - [Electronic Frontier Foundation (EFF)'s Surevillance Self-Defense Guide](https://ssd.eff.org/)
@@ -128,6 +129,7 @@ Do these for all of your computers, phones, tablets, etc.
 - [New York Times's How to Dox Yourself on the Internet](https://open.nytimes.com/how-to-dox-yourself-on-the-internet-d2892b4c5954)
 - [Smart Girl's Guide to Privacy](https://nostarch.com/smartgirlsguide) (book)
 - [Surveilled documentary](https://www.imdb.com/title/tt33813121/)
+- [Tate's Online Safety](https://onlinesafety.substack.com/)
 - [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.html)
 - [Windows Security From The Ground Up](https://decentsecurity.com/#/securing-your-computer/)
 - [Wirecutter's Every Step to Simple Online Security](https://www.nytimes.com/wirecutter/guides/simple-online-security/)
