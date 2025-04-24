@@ -128,6 +128,7 @@ Do these for all of your computers, phones, tablets, etc.
 - [Mozilla's Privacy Not Included buying guide](https://foundation.mozilla.org/en/privacynotincluded/)
 - [New York Times's How to Dox Yourself on the Internet](https://open.nytimes.com/how-to-dox-yourself-on-the-internet-d2892b4c5954)
 - [Smart Girl's Guide to Privacy](https://nostarch.com/smartgirlsguide) (book)
+- [Surveillance Technology Oversight Project (STOP)'s Protest Surveillance toolkit](https://www.stopspying.org/protest)
 - [Surveilled documentary](https://www.imdb.com/title/tt33813121/)
 - [Tate's Online Safety](https://onlinesafety.substack.com/)
 - [Tech Solidarity's Security Guide](https://techsolidarity.org/resources/basic_security.html)

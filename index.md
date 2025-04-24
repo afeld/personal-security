@@ -130,7 +130,7 @@ In short, security is like having bars on your windows: hackers can't get in, bu
 
 ## Disclaimer
 
-This guide makes no guarantees that, even with following all steps of this guide, that your digital security/privacy will not be compromised. If you are a high-value target for hackers, law enforcement, or nation-states, such as:
+This guide makes no guarantees that, even with following all steps of this guide, that your digital security/privacy will not be compromised. If you think you might be of particular interest to hackers, law enforcement, or nation-states, becaure you're:
 
 - An activist
 - A celebrity
@@ -139,4 +139,6 @@ This guide makes no guarantees that, even with following all steps of this guide
 - A politician
 - A system administrator
 
-…then this guide will not be enough. See resource like the [Surveillance Technology Oversight Project (STOP)'s Protest Surveillance toolkit](https://www.stopspying.org/protest). If you're a high-profile target, you should consult a security professional for additional actions.
+…then you should do everything in this guide, but it won't be enough. See the [additional resources](next-steps/#resources).
+
+If you're a high-profile target, consult a security professional for additional actions.
