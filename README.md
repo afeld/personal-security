@@ -2,7 +2,7 @@
 
 ## Run locally
 
-Requires Ruby 3.x. Run with
+Requires Ruby — builds with v4, but v3 may still work. Run with:
 
 ```sh
 bundle
