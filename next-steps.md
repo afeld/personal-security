@@ -56,7 +56,7 @@ Your personal/contact information, passwords, etc. may have become available to 
 
 ## Passwords
 
-- [ ] **Use different ([strong](#passwords)) passwords for every service.**
+- [ ] **Use [strong](index.md#passwords) unique passwords for every service.**
   - If you use the same password across services, one service getting hacked means your accounts with other services could be compromised. This happens [all the time](https://www.nytimes.com/interactive/2015/07/29/technology/personaltech/what-parts-of-your-information-have-been-exposed-to-hackers-quiz.html?_r=0).
   - The best way to do this is with a [password manager](#password-manager).
 
@@ -66,7 +66,7 @@ Your personal/contact information, passwords, etc. may have become available to 
 
 A password manager solves a number of problems:
 
-- You don't have to remember all of your different passwords for different services.
+- You don't have to remember all of your unique passwords for different services.
 - Your list of passwords can't be stolen as easily as if they are written on paper, a Word document, or a spreadsheet.
 - Most can generate a random, non-trivial password.
   - This often means you won't know your own password for a given service...which is not a bad thing!
