@@ -58,6 +58,7 @@ Your personal/contact information, passwords, etc. may have become available to 
 
 - [ ] **Use [strong](index.md#passwords) unique passwords for every service.**
   - If you use the same password across services, one service getting hacked means your accounts with other services could be compromised. This happens [all the time](https://www.nytimes.com/interactive/2015/07/29/technology/personaltech/what-parts-of-your-information-have-been-exposed-to-hackers-quiz.html?_r=0).
+  - Prioritize doing this for your [important accounts](index.md#important-accounts).
   - The best way to do this is with a [password manager](#password-manager).
 
 ### Password manager
