@@ -115,16 +115,16 @@ In short, security is like having bars on your windows: hackers can't get in, bu
 
 ## Glossary
 
-- **Data breach**: TODO
-- **Data broker**: TODO
-- **Hack**: TODO
+- **Data breach**: When a company or organization's systems are accessed without permission, exposing the information it holds about its customers or users, such as email addresses, passwords, or payment details.
+- **Data broker**: A company that collects personal information about people from public records, apps, and other sources, then sells or licenses it to others, typically for advertising, marketing, or background checks.
+- **Hack**: To get into a device, account, or system without permission, or to make it do something its owner didn't intend. Someone who does this is a hacker.
 - **Multi-factor authentication (MFA)**: A service requiring more than just a password to log in.
 - **Passphrase**: Synonym for `password`.
-- **Personal health information (PHI)**: TODO
-- **Personally identifiable information (PII)**: TODO
-- **Privacy**: TODO
-- [**Pwned**](https://cyberinsight.co/what-does-pwn-stand-for/)
-- **Security**: TODO
+- **Personal health information (PHI)**: Information about your health, such as diagnoses, medications, and medical or insurance records. Healthcare providers and insurers in the US are legally required to protect it, but apps and websites often aren't.
+- **Personally identifiable information (PII)**: Details that can be used to identify you, such as your name, address, phone number, date of birth, or Social Security number. Scammers use it to impersonate you.
+- **Privacy**: Controlling who can see information about you and what you do. See [Privacy vs. security](#privacy-vs-security).
+- [**Pwned**](https://cyberinsight.co/what-does-pwn-stand-for/): Slang for an account or device that has been compromised, or whose password has appeared in a data breach.
+- **Security**: Protecting your devices and accounts from being accessed by anyone who shouldn't. See [Privacy vs. security](#privacy-vs-security).
 - **SMS**: Short Message Service, also known as "text messages".
 - **Two-factor authentication (2FA):** See `multi-factor authentication`.
 
