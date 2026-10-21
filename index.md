@@ -45,6 +45,9 @@ Do these for all of your computers, phones, tablets, etc.
 - [ ] **Delete apps you don't use.**
   - [Android](https://support.google.com/android/answer/13627979)
   - [iOS](https://www.theverge.com/23270473/iphone-ios-unused-app-clean-up-offload-how-to)
+- [ ] **Turn on "find my device"**, so you can locate, lock, or erase a lost or stolen one.
+  - [Android](https://support.google.com/android/answer/3265955)
+  - [iOS/Mac](https://support.apple.com/en-us/104978)
 - [ ] **Lock your SIM card.** The instructions will be specific to your provider.
   - [AT&T](https://www.att.com/support/article/wireless/KM1000485/)
   - [Google Fi](https://support.google.com/fi/answer/15147412)
@@ -77,11 +80,23 @@ Some services have a built-in Security Checkup tools, walking you through variou
   - [ ] [**Remove the Results About You**](https://myactivity.google.com/results-about-you)
 - [ ] [**Meta (Facebook, Instagram, etc.)**](https://accountscenter.facebook.com/password_and_security)
 
+#### Account recovery
+
+Attackers often get into an account through its recovery options, not its password. For each of your [important accounts](#important-accounts), especially email:
+
+- [ ] **Make sure the recovery email address and phone number are yours and current.** Remove old ones.
+  - [Google](https://support.google.com/accounts/answer/183723)
+- [ ] **Review the devices that are signed in**, and sign out any you don't recognize or use.
+  - [Google](https://support.google.com/accounts/answer/3067630)
+
 ### Passwords
 
 - [ ] **Set [strong passwords](https://support.microsoft.com/en-us/windows/create-and-use-strong-passwords-c5cebb49-8c53-4f5e-2bc4-fe357ca048eb)** on all of your [important accounts](#important-accounts) and [devices](#devices).
   - Otherwise, hackers can get into your account(s) extremely easily. Different services have different requirements around passwords.
   - This is easier if you [set up a password manager](next-steps/#password-manager).
+- [ ] **Use [passkeys](https://fidoalliance.org/passkeys/) instead of passwords** wherever a service offers them. They can't be phished or reused, and you sign in with your fingerprint, face, or device PIN.
+  - [Apple](https://support.apple.com/en-us/102195)
+  - [Google](https://support.google.com/accounts/answer/13548313)
 
 ### [Multi-factor authentication](https://brainstation.io/cybersecurity/two-factor-auth)
 
@@ -89,8 +104,9 @@ Some services have a built-in Security Checkup tools, walking you through variou
 
 Also known as two-factor authentication (2FA). [All major services offer MFA.](https://2fa.directory/)
 
-When enabling MFA, using one or more of the following is recommended:
+When enabling MFA, using one or more of the following is recommended. Passkeys and security keys are the strongest, since they can't be tricked by a fake login page. Text messages are the weakest, since they can be intercepted or redirected through a SIM swap.
 
+- [Passkeys](#passwords) or physical security keys
 - Biometrics ([Apple Face ID](https://support.apple.com/en-us/108411), fingerprint, etc.)
 - An app to generate codes that synchronizes:
   - [1Password](https://support.1password.com/one-time-passwords/) - paid, but is a full-fledged [password manager](next-steps/#password-manager)
@@ -100,6 +116,14 @@ When enabling MFA, using one or more of the following is recommended:
   - [Apple ID](https://support.apple.com/en-us/102660)
   - [Google](https://support.google.com/accounts/answer/7026266)
 - Text messages (SMS)
+
+### Phishing and scams
+
+Scammers pretend to be a company or someone you know to get you to click a link, hand over a code, or send money. Better security settings don't help if you're talked into giving access away.
+
+- [ ] **Don't act on unexpected messages.** Be wary of anything urgent, or that asks for a login, code, or payment. Instead of clicking its link or using the contact info in it, go to the company's site or app yourself, or call a number you know is real. [More from the FTC.](https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams)
+- [ ] **Never share an MFA code with anyone who contacts you.** Legitimate companies don't ask for them.
+- [ ] **If a family member calls in an emergency asking for money, hang up and call them back** on their usual number. Scammers can [clone a voice from a short clip](https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes). Agreeing on a code word with your family ahead of time also helps.
 
 ## Next steps
 

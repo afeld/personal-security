@@ -96,6 +96,13 @@ Do these for all of your computers, phones, tablets, etc.
 - [ ] [**iOS: Go through the built-in privacy and security protections page.**](https://support.apple.com/guide/iphone/use-built-in-privacy-and-security-protections-iph6e7d349d1/ios)
   - [ ] [**iOS: Review app tracking permissions.**](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios)
 
+## AI chatbots
+
+- [ ] **Don't paste [sensitive information](#sensitive-information) into AI chatbots**, such as passwords, financial or health details, or other people's private information. Treat what you type as something the company can keep and review.
+- [ ] **Check whether your chats are used to train the models**, and turn that off if you'd rather it wasn't. Most services also offer a temporary or incognito chat mode.
+  - [Claude](https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training)
+  - [Gemini](https://support.google.com/gemini/answer/13594961)
+
 ## Payments
 
 - **When paying in-person using a credit or debit card, use the chip or contactless/tap-to-pay** instead of swiping.
