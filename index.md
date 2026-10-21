@@ -124,6 +124,10 @@ Unlike the above, these can't be checked off. They're things to keep doing, sinc
 - **Don't act on unexpected, urgent messages** that ask for a login, code, or payment. Instead of using the link or contact info in them, [go to the company's site or app yourself](https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams), or call a number you know is real.
 - **Never share an MFA code with anyone who contacts you.** Legitimate companies don't ask for them.
 - **If a family member calls in an emergency asking for money, hang up and call them back** on their usual number. Scammers can [clone a voice from a short clip](https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes). Agreeing on a code word with your family ahead of time also helps.
+- **Review your apps' permissions now and then**, and revoke anything an app doesn't need, like location, contacts, or microphone access. Do it whenever you install something new, too.
+  - [Android](https://support.google.com/android/answer/6270602)
+  - [iOS](https://support.apple.com/guide/iphone/control-access-to-information-in-apps-iph251e92810/ios)
+- **Act on data breach alerts.** If you [signed up for them](next-steps/#leaks) and one says your information was exposed, change that account's password right away, and the password on any other account where you reused it.
 
 ## Next steps
 
