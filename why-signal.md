@@ -18,7 +18,7 @@ There is a better alternative: [Signal](https://signal.org). While this secure m
 
 We'll get into why each of the above is important, but first, we'll look at what different messaging options can and can't do.
 
-With [iOS 18 releasing RCS support](https://www.cnet.com/tech/services-and-software/ios-18-everything-you-should-know-about-rcs-messaging-on-your-iphone/), **the default messaging apps on both iPhone, Mac, and Android now support high-quality encrypted messaging out of the box**, at least in [some scenarios](#rcs-encryption). This, admittedly, means that Signal has less [benefit](#comparison-of-messaging-options) than it used to. This is actually a good thing, and arguably the best outcome the [Signal Technology Foundation](https://signalfoundation.org/) could have hoped for: the masses using encrypted messaging without having to even think about it. The Signal team deserves credit for spearheading that change to the market.
+With [iOS 18 releasing RCS support](https://support.apple.com/en-us/104972), **the default messaging apps on both iPhone, Mac, and Android now support high-quality encrypted messaging out of the box**, at least in [some scenarios](#rcs-encryption). This, admittedly, means that Signal has less [benefit](#comparison-of-messaging-options) than it used to. This is actually a good thing, and arguably the best outcome the [Signal Technology Foundation](https://signalfoundation.org/) could have hoped for: the masses using encrypted messaging without having to even think about it. The Signal team deserves credit for spearheading that change to the market.
 {: .alert.alert-warning role="alert"}
 
 ## Comparison of messaging options
