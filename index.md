@@ -117,6 +117,14 @@ When enabling MFA, using one or more of the following is recommended. Passkeys a
   - [Google](https://support.google.com/accounts/answer/7026266)
 - Text messages (SMS)
 
+## Ongoing habits
+
+Unlike the above, these can't be checked off. They're things to keep doing, since scammers pretend to be a company or someone you know, and better security settings don't help if you're talked into giving access away.
+
+- **Don't act on unexpected, urgent messages** that ask for a login, code, or payment. Instead of using the link or contact info in them, [go to the company's site or app yourself](https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams), or call a number you know is real.
+- **Never share an MFA code with anyone who contacts you.** Legitimate companies don't ask for them.
+- **If a family member calls in an emergency asking for money, hang up and call them back** on their usual number. Scammers can [clone a voice from a short clip](https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes). Agreeing on a code word with your family ahead of time also helps.
+
 ## Next steps
 
 Great work! Your personal security and privacy are now _waaaay_ above average.
