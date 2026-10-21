@@ -106,6 +106,8 @@ Do these for all of your computers, phones, tablets, etc.
 
 ## Credit
 
+_This section is specific to the United States._
+
 - [ ] **[Freeze your credit.](https://www.forbes.com/advisor/credit-score/pros-and-cons-of-freezing-credit/)**
 
 ## Networking
