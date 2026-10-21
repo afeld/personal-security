@@ -32,7 +32,9 @@ Examples of sensitive information:
 
 ### Who to share it with
 
-**If someone contacts you via phone or email and asks for sensitive information, don't give it to them.** This often comes up as fake customer support or debt collectors. If this happens and you think it _might_ be legitimate, follow up via official channels (the customer service number on the back of your credit card, etc.)
+**If someone contacts you via phone or email and asks for sensitive information, don't give it to them.** This often comes up as fake customer support or debt collectors. If this happens and you think it _might_ be legitimate, follow up via official channels (the customer service number on the back of your credit card, etc.) The same goes for unexpected, urgent texts and emails, and their links: [go to the company's site or app yourself](https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams). Never share an MFA code with anyone who contacts you, since legitimate companies don't ask for them.
+
+If a family member calls in an emergency asking for money, hang up and call them back on their usual number. Scammers can [clone a voice from a short clip](https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes). Agreeing on a code word with your family ahead of time also helps.
 
 ### How to send
 
