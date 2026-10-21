@@ -1,6 +1,6 @@
 ---
 title: Next steps
-description: Digitial security/privacy tips that require a bit more commitment or technical comfort
+description: Digital security/privacy tips that require a bit more commitment or technical comfort
 ---
 
 # {{ site.title }} - next steps
@@ -121,7 +121,7 @@ Do these for all of your computers, phones, tablets, etc.
 
 - [Activist Checklist](https://activistchecklist.org/)
 - [Elana Hashman's Cryptoparty Workshop](https://hashman.ca/encryption-workshop/) at [Protect Yo'Self!](https://www.eventbrite.com/e/protect-yoself-a-day-of-workshops-on-security-and-online-privacy-tickets-31114213450)
-- [Electronic Frontier Foundation (EFF)'s Surevillance Self-Defense Guide](https://ssd.eff.org/)
+- [Electronic Frontier Foundation (EFF)'s Surveillance Self-Defense Guide](https://ssd.eff.org/)
 - [Freedom of the Press Foundation's Guides & Resources](https://freedom.press/digisec/guides/)
   - [Online Account Security](https://freedom.press/training/online-account-security/)
   - [The journalist’s digital security checklist](https://freedom.press/digisec/blog/journalists-digital-security-checklist/)

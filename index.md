@@ -130,7 +130,7 @@ In short, security is like having bars on your windows: hackers can't get in, bu
 
 ## Disclaimer
 
-This guide makes no guarantees that, even with following all steps of this guide, that your digital security/privacy will not be compromised. If you think you might be of particular interest to hackers, law enforcement, or nation-states, becaure you're:
+This guide makes no guarantees that, even with following all steps of this guide, that your digital security/privacy will not be compromised. If you think you might be of particular interest to hackers, law enforcement, or nation-states, because you're:
 
 - An activist
 - A celebrity
